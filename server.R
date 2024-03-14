@@ -1,5 +1,7 @@
 library(shiny)
 library(BrAPI)
+library(tidyverse)
+
 
 # ====================================================== #
 #
@@ -21,20 +23,27 @@ server = function(input, output, session) {
   #
   DATA = reactiveValues(
     bp_trials = list(),
-    selected_trials = data.frame(
-      trial_id = integer(),
-      trial_name = character(),
-      breeding_program = character(),
-      year = character(),
-      location = character()
+    selected_trials = tibble(
+      studyDbId = c(9091, 9411),
+      studyName = c("CornellMaster_2021_Snyder", "CornellMaster_2022_Helfer"),
+      programName = c("Cornell University", "Cornell University"),
+      year = c("2021", "2022"),
+      locationName = c("Ithaca, NY - Snyder", "Ithaca, NY - Helfer")
     ),
-    retrieved_phenotypes = data.frame(
-      trial_id = integer(),
-      trial_name = character(),
-      plot_id = integer(),
-      plot_name = character(),
-      trait_name = character(),
-      value = numeric()
+    retrieved_phenotypes = tibble(
+      studyDbId = numeric(),
+      studyName = character(),
+      year = character(),
+      locationName = character(),
+      observationUnitDbId = numeric(),
+      observationUnitName = character(),
+      germplasmDbId = numeric(),
+      germplasmName = character(),
+      row_number = numeric(),
+      col_number = numeric(),
+      plot = character(),
+      rep = character(),
+      block = character()
     )
   )
 
@@ -107,18 +116,17 @@ server = function(input, output, session) {
     for ( id in selected_trial_ids ) {
 
       # Only add the trial if it's not already in the table
-      if ( ! id %in% DATA$selected_trials$trial_id ) {
+      if ( ! id %in% DATA$selected_trials$studyDbId ) {
         t = DATA$bp_trials[[id]]
 
         # Add the trial metadata to the table of selected trials
-        DATA$selected_trials = rbind(DATA$selected_trials, data.frame(
-          trial_id = t$studyDbId,
-          trial_name = t$studyName,
-          breeding_program = t$additionalInfo$programName,
+        DATA$selected_trials = add_row(DATA$selected_trials, tibble(
+          studyDbId = as.numeric(t$studyDbId),
+          studyName = as.character(t$studyName),
+          programName = as.character(t$additionalInfo$programName),
           year = paste(t$seasons, collapse=", "),
-          location = t$locationName
+          locationName = as.character(t$locationName)
         ))
-
       }
     }
 
@@ -146,8 +154,30 @@ server = function(input, output, session) {
     DATA$retrieved_phenotypes = DATA$retrieved_phenotypes[0,]
     trial_count = nrow(DATA$selected_trials)
 
+    # Temporary table to hold observations
+    data_plots = tibble(
+      studyDbId = numeric(),
+      studyName = character(),
+      year = character(),
+      locationName = character(),
+      observationUnitDbId = numeric(),
+      observationUnitName = character(),
+      germplasmDbId = numeric(),
+      germplasmName = character(),
+      row_number = numeric(),
+      col_number = numeric(),
+      plot = character(),
+      rep = character(),
+      block = character()
+    )
+    data_observations = tibble(
+      observationUnitDbId = numeric(),
+      trait = character(),
+      value = character()
+    )
+
     if ( db_name != "" ) {
-      withProgress(message = "Fetching Observations", value = 0, min = 0, max = trial_count, {
+      withProgress(message = "Fetching Observations", value = 0, min = 0, max = trial_count*2, {
         db = getBrAPIConnection(db_name)
 
         # Loop through each of the trials in the selected_trials table
@@ -155,32 +185,91 @@ server = function(input, output, session) {
           
           # Get trial info
           t = DATA$selected_trials[i,]
-          trial_id = t$trial_id
-          trial_name = t$trial_name
-          incProgress(amount = 1, detail = trial_name)
+          studyDbId = t$studyDbId
+          studyName = t$studyName
+
+          # Get all of the observationUnits (plots) for the trial
+          setProgress(value = (i*2)-2, message = studyName, detail = "Fetching plots...")
+          resp = db$get("/observationunits", query=list(studyDbId=studyDbId), page="all", pageSize=100)
+          observationUnits = resp$combined_data
+
+          # Loop through each observationUnit, adding it to the table
+          for ( observationUnit in observationUnits ) {
+            r = tibble(
+              studyDbId = as.numeric(observationUnit$studyDbId),
+              studyName = as.character(observationUnit$studyName),
+              year = as.character(t$year),
+              locationName = as.character(observationUnit$locationName),
+              observationUnitDbId = as.numeric(observationUnit$observationUnitDbId),
+              observationUnitName = as.character(observationUnit$observationUnitName),
+              germplasmDbId = as.numeric(observationUnit$germplasmDbId),
+              germplasmName = as.character(observationUnit$germplasmName),
+              row_number = observationUnit$observationUnitPosition$positionCoordinateY,
+              col_number = observationUnit$observationUnitPosition$positionCoordinateX,
+              plot = "",
+              rep = "",
+              block = ""
+            )
+            levels = observationUnit$observationUnitPosition$observationLevelRelationships
+            for ( l in c(1:length(levels)) ) {
+              level = levels[[l]]
+              if ( level$levelName == "plot" ) {
+                r$plot = as.character(level$levelCode)
+              }
+              if ( level$levelName == "rep" ) {
+                r$rep = as.character(level$levelCode)
+              }
+              if ( level$levelName == "block" ) {
+                r$block = as.character(level$levelCode)
+              }
+            }
+            data_plots = bind_rows(data_plots, r)
+          }
 
           # Get all of the observations for the trial
-          resp = db$get("/observations", query=list(studyDbId=trial_id), page="all", pageSize=500)
+          setProgress(value = (i*2)-1, message = studyName, detail = "Fetching observations...")
+          resp = db$get("/observations", query=list(studyDbId=studyDbId), page="all", pageSize=500)
           observations = resp$combined_data
 
           # Loop through each observation, adding it to the table
           for ( observation in observations ) {
-            DATA$retrieved_phenotypes = rbind(DATA$retrieved_phenotypes, data.frame(
-              trial_id = as.numeric(trial_id),
-              trial_name = as.character(trial_name),
-              plot_id = as.numeric(observation$observationUnitDbId),
-              plot_name = observation$observationUnitName,
-              accession_name = observation$germplasmName,
-              trait_name = observation$observationVariableName,
-              value = observation$value
+            data_observations = bind_rows(data_observations, tibble(
+              observationUnitDbId = as.numeric(observation$observationUnitDbId),
+              trait = as.character(observation$observationVariableName),
+              value = as.character(observation$value)
             ))
           }
 
         }
-      })
 
-      # Render the retrieved phenotypes table in the UI
-      output$retrieved_phenotypes = renderDataTable(DATA$retrieved_phenotypes)
+
+        # Add the traits and their values to the observationUnits table
+        incProgress(amount = 1, message = "Generating input data...")
+
+        print(data_plots)
+        print(data_observations)
+
+        # Add trait columns
+        traits = sort(unique(data_observations$trait))
+        for ( trait in traits ) {
+          data_plots = bind_cols(data_plots, !!trait := NA_character_)
+        }
+
+        # Add trait values
+        for ( i in c(1:nrow(data_observations)) ) {
+          o = data_observations[i,]
+          data_plots = mutate(data_plots, !!o$trait := ifelse(observationUnitDbId == !!o$observationUnitDbId, !!o$value, !!o$trait))
+        }
+
+        print(data_plots)
+
+
+        # Render the retrieved phenotypes table in the UI
+        output$retrieved_phenotypes = renderDataTable(data_plots)
+      })
+    }
+    else {
+
     }
   })
 }
