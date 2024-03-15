@@ -80,15 +80,16 @@ analysisPanel = fluidPage(
   fluidRow(
 
     # Left column: button to download phenotypes
-    column(2,
-      h3("Retrieve Phenotypes"),
-      actionButton("retrieve_phenotypes", "Get Phenotype Data")
+    column(4,
+      h4("Step 1"),
+      p("Download phenotype data from the database"),
+      actionButton("get_phenotype_data", "Get Data")
     ),
 
     # Right column: table of downloaded phenotypes
-    column(10,
-      h3("Retrieved Phenotypes"),
-      dataTableOutput("retrieved_phenotypes")
+    column(8,
+      h3("Phenotype Data"),
+      dataTableOutput("phenotype_data")
     )
 
   )

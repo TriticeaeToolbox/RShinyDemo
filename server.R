@@ -30,7 +30,7 @@ server = function(input, output, session) {
       year = c("2021", "2022"),
       locationName = c("Ithaca, NY - Snyder", "Ithaca, NY - Helfer")
     ),
-    retrieved_phenotypes = tibble(
+    phenotype_data = tibble(
       studyDbId = numeric(),
       studyName = character(),
       year = character(),
@@ -149,27 +149,12 @@ server = function(input, output, session) {
   # HANDLER: Retrieve Phenotypes
   # Download all observations for all selected trials
   #
-  observeEvent(input$retrieve_phenotypes, {
+  observeEvent(input$get_phenotype_data, {
     db_name = input$database
     DATA$retrieved_phenotypes = DATA$retrieved_phenotypes[0,]
     trial_count = nrow(DATA$selected_trials)
 
     # Temporary table to hold observations
-    data_plots = tibble(
-      studyDbId = numeric(),
-      studyName = character(),
-      year = character(),
-      locationName = character(),
-      observationUnitDbId = numeric(),
-      observationUnitName = character(),
-      germplasmDbId = numeric(),
-      germplasmName = character(),
-      row_number = numeric(),
-      col_number = numeric(),
-      plot = character(),
-      rep = character(),
-      block = character()
-    )
     data_observations = tibble(
       observationUnitDbId = numeric(),
       trait = character(),
@@ -223,7 +208,7 @@ server = function(input, output, session) {
                 r$block = as.character(level$levelCode)
               }
             }
-            data_plots = bind_rows(data_plots, r)
+            DATA$phenotype_data  = bind_rows(DATA$phenotype_data , r)
           }
 
           # Get all of the observations for the trial
@@ -246,26 +231,23 @@ server = function(input, output, session) {
         # Add the traits and their values to the observationUnits table
         incProgress(amount = 1, message = "Generating input data...")
 
-        print(data_plots)
-        print(data_observations)
-
         # Add trait columns
         traits = sort(unique(data_observations$trait))
         for ( trait in traits ) {
-          data_plots = bind_cols(data_plots, !!trait := NA_character_)
+          DATA$phenotype_data = bind_cols(DATA$phenotype_data, !!trait := NA_character_)
         }
 
-        # Add trait values
+        # Add trait values from the observations table to the plot table
         for ( i in c(1:nrow(data_observations)) ) {
           o = data_observations[i,]
-          data_plots = mutate(data_plots, !!o$trait := ifelse(observationUnitDbId == !!o$observationUnitDbId, !!o$value, !!o$trait))
+          x = which(DATA$phenotype_data $observationUnitDbId == o$observationUnitDbId)
+          y = which(colnames(DATA$phenotype_data ) == o$trait)
+          DATA$phenotype_data [x,y] = o$value
         }
 
-        print(data_plots)
-
-
         # Render the retrieved phenotypes table in the UI
-        output$retrieved_phenotypes = renderDataTable(data_plots)
+        print(DATA$phenotype_data)
+        output$phenotype_data = renderDataTable(DATA$phenotype_data)
       })
     }
     else {
