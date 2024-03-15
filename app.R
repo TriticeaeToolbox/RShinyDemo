@@ -1,7 +1,7 @@
 library(shiny)
 
-source("./ui.R")
-source("./server.R")
+source("./shiny/ui.R")
+source("./shiny/server.R")
 
 
 #
