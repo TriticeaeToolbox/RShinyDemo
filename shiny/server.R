@@ -84,4 +84,10 @@ server = function(input, output, session) {
   # Download all observations for all selected trials
   #
   observeEvent(input$get_phenotype_data, getPhenotypeData(input, output, session, data))
+
+  #
+  # HANDLER: Download Phenotypes
+  # Download the current phenotype_data table to a CSV file
+  #
+  output$download_phenotype_data = downloadPhenotypeData(input, output, session, data)
 }

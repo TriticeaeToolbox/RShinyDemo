@@ -1,6 +1,9 @@
 library(shiny)
 library(BrAPI)
 
+#
+# Fetch the phenotype data for the selected_trials via BrAPI
+#
 getPhenotypeData = function(input, output, session, data) {
   db_name = input$database
   data$retrieved_phenotypes = data$retrieved_phenotypes[0,]
@@ -101,4 +104,18 @@ getPhenotypeData = function(input, output, session, data) {
       output$phenotype_data = renderDataTable(data$phenotype_data)
     })
   }
+}
+
+#
+# Download the current phenotype_data as a CSV file
+#
+downloadPhenotypeData = function(input, output, session, data) {
+  downloadHandler(
+    filename = function() {
+      return("phenotype_data.csv")
+    },
+    content = function(file) {
+      write.csv(data$phenotype_data, file, row.names = FALSE, na = "")
+    }
+  )
 }
