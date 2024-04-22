@@ -1,5 +1,6 @@
 library(shiny)
 library(BrAPI)
+source("./utils/cleanTraitName.R")
 
 #
 # Fetch the phenotype data for the selected_trials via BrAPI
@@ -18,7 +19,7 @@ getPhenotypeData = function(input, output, session, data) {
 
   if ( db_name != "" ) {
     withProgress(message = "Fetching Observations", value = 0, min = 0, max = trial_count*2, {
-      db = getBrAPIConnection(db_name)
+      db = DATABASES[[db_name]]
 
       # Loop through each of the trials in the selected_trials table
       for ( i in c(1:nrow(data$selected_trials)) ) {
@@ -38,14 +39,15 @@ getPhenotypeData = function(input, output, session, data) {
           r = tibble(
             studyDbId = as.numeric(observationUnit$studyDbId),
             studyName = as.character(observationUnit$studyName),
+            programName = as.character(observationUnit$programName),
             year = as.character(t$year),
             locationName = as.character(observationUnit$locationName),
             observationUnitDbId = as.numeric(observationUnit$observationUnitDbId),
             observationUnitName = as.character(observationUnit$observationUnitName),
             germplasmDbId = as.numeric(observationUnit$germplasmDbId),
             germplasmName = as.character(observationUnit$germplasmName),
-            row_number = observationUnit$observationUnitPosition$positionCoordinateY,
-            col_number = observationUnit$observationUnitPosition$positionCoordinateX,
+            rowNumber = observationUnit$observationUnitPosition$positionCoordinateY,
+            colNumber = observationUnit$observationUnitPosition$positionCoordinateX,
             plot = "",
             rep = "",
             block = ""
@@ -96,12 +98,13 @@ getPhenotypeData = function(input, output, session, data) {
       for ( i in c(1:nrow(data_observations)) ) {
         o = data_observations[i,]
         x = which(data$phenotype_data $observationUnitDbId == o$observationUnitDbId)
-        y = which(colnames(data$phenotype_data ) == o$trait)
-        data$phenotype_data [x,y] = o$value
+        y = which(colnames(data$phenotype_data) == o$trait)
+        data$phenotype_data[x,y] = o$value
       }
 
       # Render the retrieved phenotypes table in the UI
-      output$phenotype_data = renderDataTable(data$phenotype_data)
+      output$phenotype_data = renderDT(data$phenotype_data)
+      updateSelectInput(session, "traits", choices = traits, selected = NULL)
     })
   }
 }

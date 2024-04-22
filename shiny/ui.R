@@ -1,4 +1,5 @@
 library(shiny)
+library(DT)
 library(BrAPI)
 
 
@@ -15,7 +16,8 @@ library(BrAPI)
 # The list of supported databases and their connection info
 # These are defined in the BrAPI R library
 #
-databases = getBrAPIConnections()
+DATABASES = getBrAPIConnections()
+DATABASES$`T3/WheatCAP` = createBrAPIConnection("wheatcap.triticeaetoolbox.org")
 
 
 #
@@ -32,29 +34,38 @@ inputPanel = fluidPage(
     # The left column has the trial selection and analysis parameter inputs
     column(4,
 
-      # Trial Selection
+      # Download Data via BrAPI
       wellPanel( 
-        h3("Trial Selection"),
-        p("Select a database to query and then choose trials to include in the analysis"),
+        h3("Fetch Data from Database"),
+        p("Select trials from a BrAPI-compliant database to fetch for the analysis."),
         
         # Dropdown menus for selecting the input trials
         # The choices for the database come from the BrAPI library
         # The choices for the breeding program will be added when the database is selected (in server.R)
         # The choices for the trials will be added when a breeding program is selected (in server.R)
-        selectInput("database", "Database", choices = c("", names(databases)), width="100%"),
+        selectInput("database", "Database", choices = c("", names(DATABASES)), width="100%"),
         selectInput("breeding_program", "Breeding Program", choices = c(), width="100%"),
         selectInput("trials", "Trials", choices = c(), width="100%", multiple=TRUE, selectize=FALSE),
 
         # Buttons to add / remove trials
-        actionButton("add_trials", "Add Trials to Analysis"),
+        fluidRow(
+          column(6, actionButton("add_trials", "Add Trials to Selection")),
+          column(6, actionButton("remove_trials", "Remove All Selected Trials"))
+        ),
+        
         tags$hr(),
-        actionButton("remove_trials", "Remove All Trials from Analysis")
+
+        # Button to download trials
+        actionButton("fetch_trials", "Fetch Phenotype Data for Selected Trials")
+        
       ),
 
-      # Analysis Parameters
+      # Upload Data from File
       wellPanel(
-        h3("Analysis Parameters"),
-        p("We can also include any other parameters that the user can set")
+        h3("Upload Data from Files"),
+        p("Upload previously saved data files for use in the analysis."),
+
+        fileInput("upload_trials", "Upload Phenotype Data")
       )
 
     ),
@@ -62,7 +73,13 @@ inputPanel = fluidPage(
     # The right column has a table of the selected trials
     column(8,
       h3("Selected Trials"),
-      dataTableOutput("selected_trials")
+      dataTableOutput("selected_trials"),
+
+      tags$hr(),
+
+      h3("Phenotype Data"),
+      downloadButton("download_phenotype_data", "Download Phenotype Data"),
+      dataTableOutput("phenotype_data")
     )
 
   )
@@ -80,17 +97,28 @@ analysisPanel = fluidPage(
   fluidRow(
 
     # Left column: button to download phenotypes
-    column(4,
-      h4("Step 1"),
-      p("Download phenotype data from the database"),
-      actionButton("get_phenotype_data", "Get Phenotype Data")
+    column(3,
+      wellPanel(
+
+        h4("Step 1"),
+        p("Select one or more traits to include in the analysis"),
+        selectInput("traits", "Traits", choices = c(), width="100%", multiple=TRUE, selectize=FALSE),
+
+        hr(),
+
+        h4("Step 2"),
+        p("Start the analysis"),
+        actionButton("start_analysis", "Start Analysis")
+
+      )
     ),
 
-    # Right column: table of downloaded phenotypes
-    column(8,
-      h3("Phenotype Data"),
-      downloadButton("download_phenotype_data", "Download Phenotype Data"),
-      dataTableOutput("phenotype_data")
+    # Right column: table of selected phenotypes
+    column(9,
+      h3("Analysis Results"),
+      dataTableOutput("results"),
+
+      hr(),
     )
 
   )

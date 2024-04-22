@@ -4,6 +4,7 @@ library(tidyverse)
 
 source("utils/inputEventObservers.R")
 source("utils/getPhenotypeData.R")
+source("analyses/spatial_analysis.R")
 
 
 # ====================================================== #
@@ -27,23 +28,24 @@ server = function(input, output, session) {
   data = reactiveValues(
     bp_trials = list(),
     selected_trials = tibble(
-      studyDbId = c(9091, 9411),
-      studyName = c("CornellMaster_2021_Snyder", "CornellMaster_2022_Helfer"),
-      programName = c("Cornell University", "Cornell University"),
-      year = c("2021", "2022"),
-      locationName = c("Ithaca, NY - Snyder", "Ithaca, NY - Helfer")
+      studyDbId = numeric(),
+      studyName = character(),
+      programName = character(),
+      year = character(),
+      locationName = character()
     ),
     phenotype_data = tibble(
       studyDbId = numeric(),
       studyName = character(),
+      programName = character(),
       year = character(),
       locationName = character(),
       observationUnitDbId = numeric(),
       observationUnitName = character(),
       germplasmDbId = numeric(),
       germplasmName = character(),
-      row_number = numeric(),
-      col_number = numeric(),
+      rowNumber = numeric(),
+      colNumber = numeric(),
       plot = character(),
       rep = character(),
       block = character()
@@ -83,11 +85,26 @@ server = function(input, output, session) {
   # HANDLER: Retrieve Phenotypes
   # Download all observations for all selected trials
   #
-  observeEvent(input$get_phenotype_data, getPhenotypeData(input, output, session, data))
+  observeEvent(input$fetch_trials, getPhenotypeData(input, output, session, data))
+
+
+  #
+  # HANDLER: Upload Phenotypes
+  # Allow the user to upload a table of phenotypes, parse as data$phenotype_data
+  #
+  observeEvent(input$upload_trials, onUploadTrials(input, output, session, data))
+
 
   #
   # HANDLER: Download Phenotypes
   # Download the current phenotype_data table to a CSV file
   #
   output$download_phenotype_data = downloadPhenotypeData(input, output, session, data)
+
+
+  #
+  # HANDLER: Start Analysis
+  # Start the analysis script with the chosen input
+  #
+  observeEvent(input$start_analysis, onStartAnalysis(input, output, session, data))
 }

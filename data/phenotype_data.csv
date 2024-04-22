@@ -1,0 +1,881 @@
+"studyDbId","studyName","year","locationName","observationUnitDbId","observationUnitName","germplasmDbId","germplasmName","row_number","col_number","plot","rep","block","rowNumber","colNumber","Anthesis time - Julian date (JD)|CO_321:0501001","Bacterial leaf streak severity - 0-9 percentage scale|CO_321:0501004","Grain protein content -  %|CO_321:0001205","Grain test weight - g/l|CO_321:0001210","Grain yield - kg/ha|CO_321:0001218","Maturity time - physiological - Julian date (JD)|CO_321:0001288","Plant height - cm|CO_321:0001301","Plant stand - 0-9 density scale|CO_321:0501120"
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039408,"YldQtl-Val_2014_ClayCenter_11_26_2097",222467,"11_26",,,"2097","1","10",10,40,,"3","14.97",,"3773",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039387,"YldQtl-Val_2014_ClayCenter_11_26_2365",222467,"11_26",,,"2365","2","17",17,48,,"3","16.83",,"2360",,"77",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039591,"YldQtl-Val_2014_ClayCenter_11_73_2098",221091,"11_73",,,"2098","1","10",10,41,,"3","16.39",,"3679",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039559,"YldQtl-Val_2014_ClayCenter_11_73_2366",221091,"11_73",,,"2366","2","17",17,49,,"2","16.69",,"3134",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039549,"YldQtl-Val_2014_ClayCenter_13_13_2191",219436,"13_13",,,"2191","1","20",20,34,,"3","16.82",,"3295",,"74",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039640,"YldQtl-Val_2014_ClayCenter_13_13_2313",219436,"13_13",,,"2313","2","12",12,46,,"2","16.68",,"3403",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039429,"YldQtl-Val_2014_ClayCenter_13_59_2192",220888,"13_59",,,"2192","1","20",20,35,,"3","16.39",,"3423",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039690,"YldQtl-Val_2014_ClayCenter_13_59_2314",220888,"13_59",,,"2314","2","12",12,47,,"2","16.49",,"3167",,"72",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039661,"YldQtl-Val_2014_ClayCenter_14_10_2035",219890,"14_10",,,"2035","1","4",4,38,,"2","14.87",,"4654",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039272,"YldQtl-Val_2014_ClayCenter_14_10_2264",219890,"14_10",,,"2264","2","7",7,47,,"2","15.42",,"3638",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039509,"YldQtl-Val_2014_ClayCenter_14_2_2032",226856,"14_2",,,"2032","1","4",4,35,,"3","15.71",,"4459",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039384,"YldQtl-Val_2014_ClayCenter_14_22_2039",224303,"14_22",,,"2039","1","4",4,42,,"2","14.9",,"4277",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039351,"YldQtl-Val_2014_ClayCenter_14_22_2269",224303,"14_22",,,"2269","2","7",7,52,,"3","15.85",,"3033",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039545,"YldQtl-Val_2014_ClayCenter_14_2_2261",226856,"14_2",,,"2261","2","7",7,44,,"3","15.93",,"3531",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039521,"YldQtl-Val_2014_ClayCenter_14_23_2038",232511,"14_23",,,"2038","1","4",4,41,,"2","14.99",,"4096",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039465,"YldQtl-Val_2014_ClayCenter_14_23_2263",232511,"14_23",,,"2263","2","7",7,46,,"2","15.5",,"3544",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039329,"YldQtl-Val_2014_ClayCenter_14_31_2037",231862,"14_31",,,"2037","1","4",4,40,,"2","15.02",,"5071",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039603,"YldQtl-Val_2014_ClayCenter_14_31_2270",231862,"14_31",,,"2270","2","7",7,53,,"2","15.26",,"3322",,"70",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039396,"YldQtl-Val_2014_ClayCenter_14_65_2033",219946,"14_65",,,"2033","1","4",4,36,,"1","15.22",,"4708",,"92",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039647,"YldQtl-Val_2014_ClayCenter_14_65_2262",219946,"14_65",,,"2262","2","7",7,45,,"2","15.28",,"4028",,"85",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039596,"YldQtl-Val_2014_ClayCenter_14_66_2031",231269,"14_66",,,"2031","1","4",4,34,,"2","15.11",,"3887",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039503,"YldQtl-Val_2014_ClayCenter_14_66_2266",231269,"14_66",,,"2266","2","7",7,49,,"3","16.04",,"3497",,"83",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039478,"YldQtl-Val_2014_ClayCenter_14_71_2036",224938,"14_71",,,"2036","1","4",4,39,,"3","14.54",,"5165",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039291,"YldQtl-Val_2014_ClayCenter_14_71_2268",224938,"14_71",,,"2268","2","7",7,51,,"2","15.44",,"3887",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039275,"YldQtl-Val_2014_ClayCenter_14_83_2034",227538,"14_83",,,"2034","1","4",4,37,,"2","14.49",,"4365",,"88",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039281,"YldQtl-Val_2014_ClayCenter_14_83_2265",227538,"14_83",,,"2265","2","7",7,48,,"2","15.33",,"3934",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039359,"YldQtl-Val_2014_ClayCenter_14_88_2040",221638,"14_88",,,"2040","1","4",4,43,,"2","16.07",,"4432",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039625,"YldQtl-Val_2014_ClayCenter_14_88_2267",221638,"14_88",,,"2267","2","7",7,50,,"3","16.99",,"3490",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039507,"YldQtl-Val_2014_ClayCenter_15_18_2083",224714,"15_18",,,"2083","1","9",9,36,,"4","15.27",,"3470",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039303,"YldQtl-Val_2014_ClayCenter_15_18_2217",224714,"15_18",,,"2217","2","2",2,50,,"4","14.93",,"3295",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039307,"YldQtl-Val_2014_ClayCenter_15_44_2084",222491,"15_44",,,"2084","1","9",9,37,,"3","15.01",,"2892",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039439,"YldQtl-Val_2014_ClayCenter_15_44_2218",222491,"15_44",,,"2218","2","2",2,51,,"3","15.89",,"3235",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039394,"YldQtl-Val_2014_ClayCenter_4_12_2155",226436,"4_12",,,"2155","1","16",16,38,,"2","16.49",,"3430",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039320,"YldQtl-Val_2014_ClayCenter_4_12_2222",226436,"4_12",,,"2222","2","3",3,45,,"1","14.4",,"3383",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039324,"YldQtl-Val_2014_ClayCenter_4_19_2156",224141,"4_19",,,"2156","1","16",16,39,,"2","15.73",,"3262",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039311,"YldQtl-Val_2014_ClayCenter_4_19_2221",224141,"4_19",,,"2221","2","3",3,44,,"2","14.74",,"3208",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039519,"YldQtl-Val_2014_ClayCenter_7_101_2119",237931,"7_101",,,"2119","1","12",12,42,,"4","16.06",,"4398",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039569,"YldQtl-Val_2014_ClayCenter_7_101_2379",237931,"7_101",,,"2379","2","18",18,52,,"2","16.42",,"3457",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039612,"YldQtl-Val_2014_ClayCenter_7_105_2114",231246,"7_105",,,"2114","1","12",12,37,,"4","15.5",,"4048",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039341,"YldQtl-Val_2014_ClayCenter_7_105_2377",231246,"7_105",,,"2377","2","18",18,50,,"3","15.76",,"2777",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039455,"YldQtl-Val_2014_ClayCenter_7_11_2112",222598,"7_11",,,"2112","1","12",12,35,,"2","15.39",,"4506",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039538,"YldQtl-Val_2014_ClayCenter_7_11_2372",222598,"7_11",,,"2372","2","18",18,45,,"2","15.51",,"3632",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039332,"YldQtl-Val_2014_ClayCenter_7_140_2116",236581,"7_140",,,"2116","1","12",12,39,,"2","17.29",,"4237",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039302,"YldQtl-Val_2014_ClayCenter_7_140_2373",236581,"7_140",,,"2373","2","18",18,46,,"2","16.82",,"3376",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039424,"YldQtl-Val_2014_ClayCenter_7_29_2115",220883,"7_29",,,"2115","1","12",12,38,,"2","16.35",,"4042",,"90",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039370,"YldQtl-Val_2014_ClayCenter_7_29_2380",220883,"7_29",,,"2380","2","18",18,53,,"2","16.72",,"2455",,"85",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039435,"YldQtl-Val_2014_ClayCenter_7_45_2117",220493,"7_45",,,"2117","1","12",12,40,,"2","15.84",,"3874",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039322,"YldQtl-Val_2014_ClayCenter_7_45_2378",220493,"7_45",,,"2378","2","18",18,51,,"2","15.48",,"3504",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039422,"YldQtl-Val_2014_ClayCenter_7_55_2113",236657,"7_55",,,"2113","1","12",12,36,,"2","15.18",,"4311",,"90",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039421,"YldQtl-Val_2014_ClayCenter_7_55_2376",236657,"7_55",,,"2376","2","18",18,49,,"2","15.45",,"3181",,"90",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039514,"YldQtl-Val_2014_ClayCenter_7_61_2118",225053,"7_61",,,"2118","1","12",12,41,,"3","15.2",,"4089",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039466,"YldQtl-Val_2014_ClayCenter_7_61_2374",225053,"7_61",,,"2374","2","18",18,47,,"3","15.34",,"3315",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039511,"YldQtl-Val_2014_ClayCenter_7_86_2120",222429,"7_86",,,"2120","1","12",12,43,,"4","15.95",,"3477",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039345,"YldQtl-Val_2014_ClayCenter_7_86_2371",222429,"7_86",,,"2371","2","18",18,44,,"3","16.25",,"2798",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039477,"YldQtl-Val_2014_ClayCenter_7_9_2111",225766,"7_9",,,"2111","1","12",12,34,,"4","16.34",,"3282",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039621,"YldQtl-Val_2014_ClayCenter_7_9_2375",225766,"7_9",,,"2375","2","18",18,48,,"2","16.72",,"2434",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039289,"YldQtl-Val_2014_ClayCenter_CO11D1111_2178",219703,"CO11D1111",,,"2178","1","18",18,41,,"4","14.89",,"3658",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039691,"YldQtl-Val_2014_ClayCenter_CO11D1111_2367",219703,"CO11D1111",,,"2367","2","17",17,50,,"3","14.67",,"3134",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039398,"YldQtl-Val_2014_ClayCenter_CO11D1119_2176",223338,"CO11D1119",,,"2176","1","18",18,39,,"3","16.61",,"3268",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039278,"YldQtl-Val_2014_ClayCenter_CO11D1119_2370",223338,"CO11D1119",,,"2370","2","17",17,53,,"2","16.52",,"2535",,"81",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039680,"YldQtl-Val_2014_ClayCenter_CO11D1125_2177",226591,"CO11D1125",,,"2177","1","18",18,40,,"3","15.3",,"4889",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039452,"YldQtl-Val_2014_ClayCenter_CO11D1125_2369",226591,"CO11D1125",,,"2369","2","17",17,52,,"2","16.5",,"2791",,"88",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039624,"YldQtl-Val_2014_ClayCenter_CO11D1127_2175",234837,"CO11D1127",,,"2175","1","18",18,38,,"6","15.21",,"3329",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039668,"YldQtl-Val_2014_ClayCenter_CO11D1127_2368",234837,"CO11D1127",,,"2368","2","17",17,51,,"5","15.68",,"2710",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039627,"YldQtl-Val_2014_ClayCenter_CO11D1140_2092",239021,"CO11D1140",,,"2092","1","10",10,35,,"4","15.12",,"3692",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039506,"YldQtl-Val_2014_ClayCenter_CO11D1140_2274",239021,"CO11D1140",,,"2274","2","8",8,47,,"3","14.38",,"3255",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039490,"YldQtl-Val_2014_ClayCenter_CO11D1156_2094",221273,"CO11D1156",,,"2094","1","10",10,37,,"3","16.33",,"3410",,"86",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039382,"YldQtl-Val_2014_ClayCenter_CO11D1156_2275",221273,"CO11D1156",,,"2275","2","8",8,48,,"2","14.86",,"3403",,"85",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039553,"YldQtl-Val_2014_ClayCenter_CO11D1159_2091",228231,"CO11D1159",,,"2091","1","10",10,34,,"4","15.2",,"3551",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039276,"YldQtl-Val_2014_ClayCenter_CO11D1159_2276",228231,"CO11D1159",,,"2276","2","8",8,49,,"4","14.72",,"3800",,"85",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039312,"YldQtl-Val_2014_ClayCenter_CO11D1174_2087",239531,"CO11D1174",,,"2087","1","9",9,40,,"5","15.66",,"3262",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039412,"YldQtl-Val_2014_ClayCenter_CO11D1174_2338",239531,"CO11D1174",,,"2338","2","14",14,51,,"4","15.01",,"3188",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039600,"YldQtl-Val_2014_ClayCenter_CO11D1182_2085",233597,"CO11D1182",,,"2085","1","9",9,38,,"2","15.35",,"3948",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039431,"YldQtl-Val_2014_ClayCenter_CO11D1182_2337",233597,"CO11D1182",,,"2337","2","14",14,50,,"4","15.28",,"3786",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039634,"YldQtl-Val_2014_ClayCenter_CO11D1186_2086",236429,"CO11D1186",,,"2086","1","9",9,39,,"3","15.96",,"3578",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039580,"YldQtl-Val_2014_ClayCenter_CO11D1186_2340",236429,"CO11D1186",,,"2340","2","14",14,53,,"4","16.28",,"2717",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039628,"YldQtl-Val_2014_ClayCenter_CO11D1190_2088",229003,"CO11D1190",,,"2088","1","9",9,41,,"2","14.86",,"4136",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039450,"YldQtl-Val_2014_ClayCenter_CO11D1190_2339",229003,"CO11D1190",,,"2339","2","14",14,52,,"3","14.97",,"3477",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039399,"YldQtl-Val_2014_ClayCenter_CO11D1213_2198",224686,"CO11D1213",,,"2198","1","20",20,41,,"4","14.58",,"3524",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039626,"YldQtl-Val_2014_ClayCenter_CO11D1213_2361",224686,"CO11D1213",,,"2361","2","17",17,44,,"3","14.49",,"3255",,"75",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039629,"YldQtl-Val_2014_ClayCenter_CO11D1219_2197",220098,"CO11D1219",,,"2197","1","20",20,40,,"2","17.68",,"2448",,"86",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039595,"YldQtl-Val_2014_ClayCenter_CO11D1219_2363",220098,"CO11D1219",,,"2363","2","17",17,46,,"2","15.87",,"3558",,"85",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039325,"YldQtl-Val_2014_ClayCenter_CO11D1221_2200",232578,"CO11D1221",,,"2200","1","20",20,43,,"3","15.31",,"3934",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039512,"YldQtl-Val_2014_ClayCenter_CO11D1221_2364",232578,"CO11D1221",,,"2364","2","17",17,47,,"3","14.81",,"3436",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039283,"YldQtl-Val_2014_ClayCenter_CO11D1231_2199",229801,"CO11D1231",,,"2199","1","20",20,42,,"3","15.15",,"3349",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039633,"YldQtl-Val_2014_ClayCenter_CO11D1231_2362",229801,"CO11D1231",,,"2362","2","17",17,45,,"3","14.91",,"2737",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039305,"YldQtl-Val_2014_ClayCenter_CO11D1236_2068",238135,"CO11D1236",,,"2068","1","7",7,41,,"2","14.19",,"5030",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039604,"YldQtl-Val_2014_ClayCenter_CO11D1236_2287",238135,"CO11D1236",,,"2287","2","9",9,50,,"2","14.14",,"4338",,"88",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039534,"YldQtl-Val_2014_ClayCenter_CO11D1240_2067",228459,"CO11D1240",,,"2067","1","7",7,40,,"4","15.91",,"4196",,"72",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039469,"YldQtl-Val_2014_ClayCenter_CO11D1240_2288",228459,"CO11D1240",,,"2288","2","9",9,51,,"6","15.55",,"1715",,"66",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039572,"YldQtl-Val_2014_ClayCenter_CO11D1248_2065",228826,"CO11D1248",,,"2065","1","7",7,38,,"1","14.91",,"4586",,"92",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039419,"YldQtl-Val_2014_ClayCenter_CO11D1248_2290",228826,"CO11D1248",,,"2290","2","9",9,53,,"2","14.4",,"3773",,"88",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039369,"YldQtl-Val_2014_ClayCenter_CO11D1268_2066",232332,"CO11D1268",,,"2066","1","7",7,39,,"1","14.81",,"5050",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039301,"YldQtl-Val_2014_ClayCenter_CO11D1268_2289",232332,"CO11D1268",,,"2289","2","9",9,52,,"2","15.4",,"3383",,"73",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039593,"YldQtl-Val_2014_ClayCenter_CO11D1287_2076",225798,"CO11D1287",,,"2076","1","8",8,39,,"4","14.95",,"3389",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039379,"YldQtl-Val_2014_ClayCenter_CO11D1287_2259",225798,"CO11D1287",,,"2259","2","6",6,52,,"2","14.89",,"3241",,"88",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039395,"YldQtl-Val_2014_ClayCenter_CO11D1298_2077",236129,"CO11D1298",,,"2077","1","8",8,40,,"2","16.33",,"2798",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039463,"YldQtl-Val_2014_ClayCenter_CO11D1298_2260",236129,"CO11D1298",,,"2260","2","6",6,53,,"2","13.87",,"3800",,"85",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039643,"YldQtl-Val_2014_ClayCenter_CO11D1302W_2075",237359,"CO11D1302W",,,"2075","1","8",8,38,,"2","14.01",,"3759",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039637,"YldQtl-Val_2014_ClayCenter_CO11D1302W_2258",237359,"CO11D1302W",,,"2258","2","6",6,51,,"2","13.98",,"3376",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039667,"YldQtl-Val_2014_ClayCenter_CO11D1312_2078",219882,"CO11D1312",,,"2078","1","8",8,41,,"3","14.47",,"4566",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039364,"YldQtl-Val_2014_ClayCenter_CO11D1312_2257",219882,"CO11D1312",,,"2257","2","6",6,50,,"3","14.6",,"3786",,"83",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039482,"YldQtl-Val_2014_ClayCenter_CO11D1315W_2190",237835,"CO11D1315W",,,"2190","1","19",19,43,,"3","16.06",,"2885",,"72",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039541,"YldQtl-Val_2014_ClayCenter_CO11D1315W_2333",237835,"CO11D1315W",,,"2333","2","14",14,46,,"2","15.09",,"3134",,"72",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039589,"YldQtl-Val_2014_ClayCenter_CO11D1316W_2187",231303,"CO11D1316W",,,"2187","1","19",19,40,,"2","15.75",,"3336",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039467,"YldQtl-Val_2014_ClayCenter_CO11D1316W_2331",231303,"CO11D1316W",,,"2331","2","14",14,44,,"2","14.58",,"3040",,"75",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039671,"YldQtl-Val_2014_ClayCenter_CO11D1322_2188",225330,"CO11D1322",,,"2188","1","19",19,41,,"4","15.57",,"2656",,"72",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039518,"YldQtl-Val_2014_ClayCenter_CO11D1322_2334",225330,"CO11D1322",,,"2334","2","14",14,47,,"3","15.36",,"2744",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039485,"YldQtl-Val_2014_ClayCenter_CO11D1341_2189",229915,"CO11D1341",,,"2189","1","19",19,42,,"2","15.31",,"3907",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039692,"YldQtl-Val_2014_ClayCenter_CO11D1341_2332",229915,"CO11D1341",,,"2332","2","14",14,45,,"3","15.17",,"3672",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039343,"YldQtl-Val_2014_ClayCenter_CO11D1353_2014",227570,"CO11D1353",,,"2014","1","2",2,37,,"2","14.79",,"4264",,"86",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039645,"YldQtl-Val_2014_ClayCenter_CO11D1353_2319",227570,"CO11D1353",,,"2319","2","12",12,52,,"2","14.81",,"3322",,"88",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039438,"YldQtl-Val_2014_ClayCenter_CO11D1371_2016",230867,"CO11D1371",,,"2016","1","2",2,39,,"1","15.36",,"3779",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039531,"YldQtl-Val_2014_ClayCenter_CO11D1371_2318",230867,"CO11D1371",,,"2318","2","12",12,51,,"2","15.6",,"3067",,"86",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039342,"YldQtl-Val_2014_ClayCenter_CO11D1380_2013",231451,"CO11D1380",,,"2013","1","2",2,36,,"4","15.65",,"3793",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039318,"YldQtl-Val_2014_ClayCenter_CO11D1380_2317",231451,"CO11D1380",,,"2317","2","12",12,50,,"3","15.7",,"3255",,"85",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039279,"YldQtl-Val_2014_ClayCenter_CO11D1397_2015",229471,"CO11D1397",,,"2015","1","2",2,38,,"2","14.27",,"3638",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039679,"YldQtl-Val_2014_ClayCenter_CO11D1397_2320",229471,"CO11D1397",,,"2320","2","12",12,53,,"2","14.01",,"3215",,"75",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039571,"YldQtl-Val_2014_ClayCenter_CO11D1409_2017",225036,"CO11D1409",,,"2017","1","2",2,40,,"3","14.56",,"3652",,"92",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039525,"YldQtl-Val_2014_ClayCenter_CO11D1409_2209",225036,"CO11D1409",,,"2209","2","1",1,52,,"2","14.85",,"3396",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039410,"YldQtl-Val_2014_ClayCenter_CO11D1414_2019",223562,"CO11D1414",,,"2019","1","2",2,42,,"2","14.36",,"4223",,"88",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039367,"YldQtl-Val_2014_ClayCenter_CO11D1414_2208",223562,"CO11D1414",,,"2208","2","1",1,51,,"2","14.61",,"3262",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039314,"YldQtl-Val_2014_ClayCenter_CO11D1418_2018",223042,"CO11D1418",,,"2018","1","2",2,41,,"4","14.07",,"4781",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039567,"YldQtl-Val_2014_ClayCenter_CO11D1418_2210",223042,"CO11D1418",,,"2210","2","1",1,53,,"4","14.11",,"3833",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039271,"YldQtl-Val_2014_ClayCenter_CO11D1431_2020",229851,"CO11D1431",,,"2020","1","2",2,43,,"4","14.76",,"4479",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039261,"YldQtl-Val_2014_ClayCenter_CO11D1431_2207",229851,"CO11D1431",,,"2207","2","1",1,50,,"4","14.71",,"3665",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039376,"YldQtl-Val_2014_ClayCenter_CO11D1539_2024",227493,"CO11D1539",,,"2024","1","3",3,37,,"2","15.52",,"4385",,"90",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039404,"YldQtl-Val_2014_ClayCenter_CO11D1539_2326",227493,"CO11D1539",,,"2326","2","13",13,49,,"3","14.57",,"3853",,"86",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039570,"YldQtl-Val_2014_ClayCenter_CO11D1542_2026",236013,"CO11D1542",,,"2026","1","3",3,39,,"2","14.24",,"4607",,"88",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039375,"YldQtl-Val_2014_ClayCenter_CO11D1542_2324",236013,"CO11D1542",,,"2324","2","13",13,47,,"3","14.55",,"3665",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039357,"YldQtl-Val_2014_ClayCenter_CO11D1543_2023",225018,"CO11D1543",,,"2023","1","3",3,36,,"4","15.06",,"3638",,"92",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039546,"YldQtl-Val_2014_ClayCenter_CO11D1543_2323",225018,"CO11D1543",,,"2323","2","13",13,46,,"3","16.06",,"3060",,"90",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039617,"YldQtl-Val_2014_ClayCenter_CO11D1545_2025",225726,"CO11D1545",,,"2025","1","3",3,38,,"4","14.28",,"4365",,"86",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039457,"YldQtl-Val_2014_ClayCenter_CO11D1545_2325",225726,"CO11D1545",,,"2325","2","13",13,48,,"3","15.02",,"3490",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039550,"YldQtl-Val_2014_ClayCenter_CO11D1555W_2167",221093,"CO11D1555W",,,"2167","1","17",17,40,,"5","14.99",,"3672",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039597,"YldQtl-Val_2014_ClayCenter_CO11D1555W_2307",221093,"CO11D1555W",,,"2307","2","11",11,50,,"4","16.07",,"3571",,"85",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039483,"YldQtl-Val_2014_ClayCenter_CO11D1559_2170",230787,"CO11D1559",,,"2170","1","17",17,43,,"5","16.61",,"3248",,"74",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039363,"YldQtl-Val_2014_ClayCenter_CO11D1559_2309",230787,"CO11D1559",,,"2309","2","11",11,52,,"3","16.18",,"3201",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039686,"YldQtl-Val_2014_ClayCenter_CO11D1584_2169",237873,"CO11D1584",,,"2169","1","17",17,42,,"4","17.19",,"2858",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039565,"YldQtl-Val_2014_ClayCenter_CO11D1584_2310",237873,"CO11D1584",,,"2310","2","11",11,53,,"3","16.81",,"2858",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039472,"YldQtl-Val_2014_ClayCenter_CO11D1600W_2168",224399,"CO11D1600W",,,"2168","1","17",17,41,,"3","15.85",,"3672",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039277,"YldQtl-Val_2014_ClayCenter_CO11D1600W_2308",224399,"CO11D1600W",,,"2308","2","11",11,51,,"3","15.48",,"3470",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039464,"YldQtl-Val_2014_ClayCenter_CO11D1615_2147",239268,"CO11D1615",,,"2147","1","15",15,40,,"3","16.26",,"3941",,"70",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039403,"YldQtl-Val_2014_ClayCenter_CO11D1615_2329",239268,"CO11D1615",,,"2329","2","13",13,52,,"3","15.97",,"2804",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039649,"YldQtl-Val_2014_ClayCenter_CO11D1620_2149",224412,"CO11D1620",,,"2149","1","15",15,42,,"3","15.79",,"3632",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039508,"YldQtl-Val_2014_ClayCenter_CO11D1620_2328",224412,"CO11D1620",,,"2328","2","13",13,51,,"4","15.39",,"3510",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039666,"YldQtl-Val_2014_ClayCenter_CO11D1631_2148",232297,"CO11D1631",,,"2148","1","15",15,41,,"3","15.52",,"3517",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039529,"YldQtl-Val_2014_ClayCenter_CO11D1631_2327",232297,"CO11D1631",,,"2327","2","13",13,50,,"3","15.29",,"2663",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039638,"YldQtl-Val_2014_ClayCenter_CO11D1633_2150",223985,"CO11D1633",,,"2150","1","15",15,43,,"3","16.1",,"3416",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039268,"YldQtl-Val_2014_ClayCenter_CO11D1633_2330",223985,"CO11D1633",,,"2330","2","13",13,53,,"4","15.65",,"2845",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039623,"YldQtl-Val_2014_ClayCenter_CO11D1642_2146",239094,"CO11D1642",,,"2146","1","15",15,39,,"4","16.03",,"3053",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039528,"YldQtl-Val_2014_ClayCenter_CO11D1642_2279",239094,"CO11D1642",,,"2279","2","8",8,52,,"5","15.71",,"2300",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039494,"YldQtl-Val_2014_ClayCenter_CO11D1644_2143",223402,"CO11D1644",,,"2143","1","15",15,36,,"4","16.73",,"2919",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039327,"YldQtl-Val_2014_ClayCenter_CO11D1644_2278",223402,"CO11D1644",,,"2278","2","8",8,51,,"5","16.1",,"2589",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039554,"YldQtl-Val_2014_ClayCenter_CO11D1645_2145",230468,"CO11D1645",,,"2145","1","15",15,38,,"4","15.85",,"3309",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039338,"YldQtl-Val_2014_ClayCenter_CO11D1645_2280",230468,"CO11D1645",,,"2280","2","8",8,53,,"5","15.47",,"2972",,"75",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039622,"YldQtl-Val_2014_ClayCenter_CO11D1647_2144",224447,"CO11D1647",,,"2144","1","15",15,37,,"4","16.26",,"3712",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039350,"YldQtl-Val_2014_ClayCenter_CO11D1647_2277",224447,"CO11D1647",,,"2277","2","8",8,50,,"2","15.55",,"3914",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039558,"YldQtl-Val_2014_ClayCenter_CO11D1654_2102",219841,"CO11D1654",,,"2102","1","11",11,35,,"4","15.13",,"3705",,"72",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039286,"YldQtl-Val_2014_ClayCenter_CO11D1654_2202",219841,"CO11D1654",,,"2202","2","1",1,45,,"5","14.5",,"3336",,"72",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039500,"YldQtl-Val_2014_ClayCenter_CO11D1656_2103",234522,"CO11D1656",,,"2103","1","11",11,36,,"5","16.57",,"3026",,"74",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039355,"YldQtl-Val_2014_ClayCenter_CO11D1656_2204",234522,"CO11D1656",,,"2204","2","1",1,47,,"6","16.05",,"2475",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039598,"YldQtl-Val_2014_ClayCenter_CO11D1657_2104",219504,"CO11D1657",,,"2104","1","11",11,37,,"4","16.82",,"3403",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039443,"YldQtl-Val_2014_ClayCenter_CO11D1657_2201",219504,"CO11D1657",,,"2201","2","1",1,44,,"4","15.12",,"3329",,"77",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039446,"YldQtl-Val_2014_ClayCenter_CO11D1665_2101",221936,"CO11D1665",,,"2101","1","11",11,34,,"6","16.26",,"3235",,"74",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039670,"YldQtl-Val_2014_ClayCenter_CO11D1665_2203",221936,"CO11D1665",,,"2203","2","1",1,46,,"7","15.96",,"2972",,"74",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039402,"YldQtl-Val_2014_ClayCenter_CO11D1686_2008",228998,"CO11D1686",,,"2008","1","1",1,41,,"2","14.99",,"4492",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039326,"YldQtl-Val_2014_ClayCenter_CO11D1686_2387",228998,"CO11D1686",,,"2387","2","19",19,50,,"2","16.71",,"2354",,"70",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039445,"YldQtl-Val_2014_ClayCenter_CO11D1715_2006",229433,"CO11D1715",,,"2006","1","1",1,39,,"4","14.48",,"3665",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039309,"YldQtl-Val_2014_ClayCenter_CO11D1715_2390",229433,"CO11D1715",,,"2390","2","19",19,53,,"4","15.01",,"3201",,"83",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039648,"YldQtl-Val_2014_ClayCenter_CO11D1731_2007",238569,"CO11D1731",,,"2007","1","1",1,40,,"5","15.96",,"3948",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039599,"YldQtl-Val_2014_ClayCenter_CO11D1731_2388",238569,"CO11D1731",,,"2388","2","19",19,51,,"5","17.7",,"1701",,"70",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039587,"YldQtl-Val_2014_ClayCenter_CO11D1746_2005",231257,"CO11D1746",,,"2005","1","1",1,38,,"3","15.31",,"3410",,"86",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039684,"YldQtl-Val_2014_ClayCenter_CO11D1746_2389",231257,"CO11D1746",,,"2389","2","19",19,52,,"5","16.69",,"1809",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039544,"YldQtl-Val_2014_ClayCenter_CO11D1758W_2163",225633,"CO11D1758W",,,"2163","1","17",17,36,,"5","16.2",,"2919",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039560,"YldQtl-Val_2014_ClayCenter_CO11D1758W_2303",225633,"CO11D1758W",,,"2303","2","11",11,46,,"3","15.74",,"3154",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039334,"YldQtl-Val_2014_ClayCenter_CO11D1767_2164",221585,"CO11D1767",,,"2164","1","17",17,37,,"4","16.7",,"3248",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039339,"YldQtl-Val_2014_ClayCenter_CO11D1767_2306",221585,"CO11D1767",,,"2306","2","11",11,49,,"3","15.01",,"3221",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039504,"YldQtl-Val_2014_ClayCenter_CO11D1789_2162",219564,"CO11D1789",,,"2162","1","17",17,35,,"4","15.81",,"2307",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039330,"YldQtl-Val_2014_ClayCenter_CO11D1789_2305",219564,"CO11D1789",,,"2305","2","11",11,48,,"3","15.76",,"2603",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039344,"YldQtl-Val_2014_ClayCenter_CO11D1799_2161",234989,"CO11D1799",,,"2161","1","17",17,34,,"2","14.51",,"3127",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039423,"YldQtl-Val_2014_ClayCenter_CO11D1799_2304",234989,"CO11D1799",,,"2304","2","11",11,47,,"2","14.44",,"3443",,"72",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039566,"YldQtl-Val_2014_ClayCenter_CT103_2126",234407,"CT103",,,"2126","1","13",13,39,,"4","15.39",,"3120",,"74",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039631,"YldQtl-Val_2014_ClayCenter_CT103_3211",234407,"CT103",,,"3211","2","22",22,44,,"0","15.82",,"2818",,"66",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039391,"YldQtl-Val_2014_ClayCenter_CT110_2136",220819,"CT110",,,"2136","1","14",14,39,,"2","17.12",,"2535",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039381,"YldQtl-Val_2014_ClayCenter_CT110_3201",220819,"CT110",,,"3201","2","21",21,44,,"0","18.12",,"1688",,"70",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039655,"YldQtl-Val_2014_ClayCenter_CT111_2139",231827,"CT111",,,"2139","1","14",14,42,,"3","15.64",,"3524",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039262,"YldQtl-Val_2014_ClayCenter_CT111_3212",231827,"CT111",,,"3212","2","22",22,45,,"0","15.51",,"2952",,"74",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039428,"YldQtl-Val_2014_ClayCenter_CT112_2140",232012,"CT112",,,"2140","1","14",14,43,,"5","15.36",,"2192",,"74",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039416,"YldQtl-Val_2014_ClayCenter_CT112_3213",232012,"CT112",,,"3213","2","22",22,46,,"0","15.48",,"1816",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039681,"YldQtl-Val_2014_ClayCenter_CT115_2129",238109,"CT115",,,"2129","1","13",13,42,,"5","14.78",,"3107",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039354,"YldQtl-Val_2014_ClayCenter_CT115_3219",238109,"CT115",,,"3219","2","22",22,52,,"0","15.1",,"2112",,"72",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039540,"YldQtl-Val_2014_ClayCenter_CT125_2128",227080,"CT125",,,"2128","1","13",13,41,,"3","15.46",,"3309",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039430,"YldQtl-Val_2014_ClayCenter_CT125_3215",227080,"CT125",,,"3215","2","22",22,48,,"0","15.05",,"2589",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039256,"YldQtl-Val_2014_ClayCenter_CT135_2137",224231,"CT135",,,"2137","1","14",14,40,,"3","16.07",,"2818",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039462,"YldQtl-Val_2014_ClayCenter_CT135_3205",224231,"CT135",,,"3205","2","21",21,48,,"0","15.03",,"2354",,"70",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039568,"YldQtl-Val_2014_ClayCenter_CT154_2131",232592,"CT154",,,"2131","1","14",14,34,,"5","16.12",,"1688",,"70",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039613,"YldQtl-Val_2014_ClayCenter_CT154_3214",232592,"CT154",,,"3214","2","22",22,47,,"0","17.02",,"1722",,"68",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039328,"YldQtl-Val_2014_ClayCenter_CT163_2135",228033,"CT163",,,"2135","1","14",14,38,,"5","16.49",,"2058",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039427,"YldQtl-Val_2014_ClayCenter_CT163_3220",228033,"CT163",,,"3220","2","22",22,53,,"0","16.73",,"1735",,"68",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039489,"YldQtl-Val_2014_ClayCenter_CT185_2124",234652,"CT185",,,"2124","1","13",13,37,,"5","15.89",,"3504",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039651,"YldQtl-Val_2014_ClayCenter_CT185_3203",234652,"CT185",,,"3203","2","21",21,46,,"0","15.65",,"2979",,"74",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039418,"YldQtl-Val_2014_ClayCenter_CT194_2130",231680,"CT194",,,"2130","1","13",13,43,,"2","16.08",,"3611",,"70",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039688,"YldQtl-Val_2014_ClayCenter_CT194_3204",231680,"CT194",,,"3204","2","21",21,47,,"0","16.1",,"3329",,"74",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039393,"YldQtl-Val_2014_ClayCenter_CT199_2125",238198,"CT199",,,"2125","1","13",13,38,,"4","15.34",,"3618",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039349,"YldQtl-Val_2014_ClayCenter_CT199_3209",238198,"CT199",,,"3209","2","21",21,52,,"0","15.59",,"2085",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039253,"YldQtl-Val_2014_ClayCenter_CT213_2127",237444,"CT213",,,"2127","1","13",13,40,,"5","15.23",,"3410",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039340,"YldQtl-Val_2014_ClayCenter_CT213_3217",237444,"CT213",,,"3217","2","22",22,50,,"0","15.69",,"3235",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039365,"YldQtl-Val_2014_ClayCenter_CT224_2132",221371,"CT224",,,"2132","1","14",14,35,,"6","16.7",,"2125",,"75",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039406,"YldQtl-Val_2014_ClayCenter_CT224_3207",221371,"CT224",,,"3207","2","21",21,50,,"0","17.13",,"1681",,"75",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039557,"YldQtl-Val_2014_ClayCenter_CT237_2121",225062,"CT237",,,"2121","1","13",13,34,,"4","17.06",,"2535",,"70",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039563,"YldQtl-Val_2014_ClayCenter_CT237_3202",225062,"CT237",,,"3202","2","21",21,45,,"0","17.09",,"2455",,"66",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039414,"YldQtl-Val_2014_ClayCenter_CT30_2122",235455,"CT30",,,"2122","1","13",13,35,,"4","16.43",,"1970",,"70",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039609,"YldQtl-Val_2014_ClayCenter_CT30_3210",235455,"CT30",,,"3210","2","21",21,53,,"0",,,"1392",,"68",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039356,"YldQtl-Val_2014_ClayCenter_CT38_2134",220447,"CT38",,,"2134","1","14",14,37,,"5","15.17",,"3275",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039608,"YldQtl-Val_2014_ClayCenter_CT38_3216",220447,"CT38",,,"3216","2","22",22,49,,"0","16.05",,"2784",,"86",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039674,"YldQtl-Val_2014_ClayCenter_CT64_2138",224649,"CT64",,,"2138","1","14",14,41,,"6","15.91",,"3026",,"70",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039636,"YldQtl-Val_2014_ClayCenter_CT64_3206",224649,"CT64",,,"3206","2","21",21,49,,"0","16.64",,"1917",,"70",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039602,"YldQtl-Val_2014_ClayCenter_CT69_2123",219786,"CT69",,,"2123","1","13",13,36,,"3","15.33",,"3652",,"90",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039434,"YldQtl-Val_2014_ClayCenter_CT69_3208",219786,"CT69",,,"3208","2","21",21,51,,"0","15.44",,"3107",,"86",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039675,"YldQtl-Val_2014_ClayCenter_CT95_2133",227966,"CT95",,,"2133","1","14",14,36,,"4","14.78",,"3847",,"74",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039346,"YldQtl-Val_2014_ClayCenter_CT95_3218",227966,"CT95",,,"3218","2","22",22,51,,"0","15.04",,"3241",,"75",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039294,"YldQtl-Val_2014_ClayCenter_GOODSYN12_2186",235541,"GOODSYN12",,,"2186","1","19",19,39,,"3","17.74",,"2650",,"100",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039689,"YldQtl-Val_2014_ClayCenter_GOODSYN12_2254",235541,"GOODSYN12",,,"2254","2","6",6,47,,"2","16.62",,"2784",,"90",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039447,"YldQtl-Val_2014_ClayCenter_GOODSYN17_2185",221839,"GOODSYN17",,,"2185","1","19",19,38,,"2","17.68",,"2650",,"102",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039543,"YldQtl-Val_2014_ClayCenter_GOODSYN17_2253",221839,"GOODSYN17",,,"2253","2","6",6,46,,"2","16.48",,"2576",,"104",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039285,"YldQtl-Val_2014_ClayCenter_GOODSYN23_2108",227490,"GOODSYN23",,,"2108","1","11",11,41,,"1","17.39",,"3174",,"100",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039453,"YldQtl-Val_2014_ClayCenter_GOODSYN23_2291",227490,"GOODSYN23",,,"2291","2","10",10,44,,"2","17.49",,"2784",,"100",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039360,"YldQtl-Val_2014_ClayCenter_GOODSYN28_2107",229354,"GOODSYN28",,,"2107","1","11",11,40,,"1","16.65",,"3087",,"98",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039316,"YldQtl-Val_2014_ClayCenter_GOODSYN28_2292",229354,"GOODSYN28",,,"2292","2","10",10,45,,"2","16.24",,"2892",,"100",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039537,"YldQtl-Val_2014_ClayCenter_GOODSYN35_2071",227740,"GOODSYN35",,,"2071","1","8",8,34,,"2","16.47",,"2966",,"96",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039520,"YldQtl-Val_2014_ClayCenter_GOODSYN35_2321",227740,"GOODSYN35",,,"2321","2","13",13,44,,"2","16.89",,"2677",,"94",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039323,"YldQtl-Val_2014_ClayCenter_GOODSYN37_2072",224599,"GOODSYN37",,,"2072","1","8",8,35,,"3","18.16",,"1365",,"94",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039266,"YldQtl-Val_2014_ClayCenter_GOODSYN37_2322",224599,"GOODSYN37",,,"2322","2","13",13,45,,"2","18.03",,"1627",,"95",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039265,"YldQtl-Val_2014_ClayCenter_GOODSYN43_2193",233878,"GOODSYN43",,,"2193","1","20",20,36,,"2","17.38",,"2266",,"92",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039601,"YldQtl-Val_2014_ClayCenter_GOODSYN43_2383",233878,"GOODSYN43",,,"2383","2","19",19,46,,"2","17.37",,"2280",,"90",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039662,"YldQtl-Val_2014_ClayCenter_GOODSYN44_2194",228841,"GOODSYN44",,,"2194","1","20",20,37,,"2","16.01",,"3679",,"102",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039532,"YldQtl-Val_2014_ClayCenter_GOODSYN44_2384",228841,"GOODSYN44",,,"2384","2","19",19,47,,"2","17.5",,"2239",,"98",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039578,"YldQtl-Val_2014_ClayCenter_GOODSYN51_2160",225985,"GOODSYN51",,,"2160","1","16",16,43,,"2","18",,"2280",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039432,"YldQtl-Val_2014_ClayCenter_GOODSYN51_2399",225985,"GOODSYN51",,,"2399","2","20",20,52,,"4","17.73",,"1432",,"85",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039389,"YldQtl-Val_2014_ClayCenter_GOODSYN5_2158",239581,"GOODSYN5",,,"2158","1","16",16,41,,"2","17.29",,"2340",,"100",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039480,"YldQtl-Val_2014_ClayCenter_GOODSYN5_2220",239581,"GOODSYN5",,,"2220","2","2",2,53,,"2","16.75",,"2287",,"97",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039581,"YldQtl-Val_2014_ClayCenter_GOODSYN58_2159",220368,"GOODSYN58",,,"2159","1","16",16,42,,"2","17.99",,"2011",,"92",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039333,"YldQtl-Val_2014_ClayCenter_GOODSYN58_2400",220368,"GOODSYN58",,,"2400","2","20",20,53,,"4","17.52",,"1015",,"90",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039594,"YldQtl-Val_2014_ClayCenter_GOODSYN61_2082",237009,"GOODSYN61",,,"2082","1","9",9,35,,"9","17.16",,"1607",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039635,"YldQtl-Val_2014_ClayCenter_GOODSYN61_2227",237009,"GOODSYN61",,,"2227","2","3",3,50,,"6","16.51",,"1802",,"86",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039646,"YldQtl-Val_2014_ClayCenter_GOODSYN62_2081",229376,"GOODSYN62",,,"2081","1","9",9,34,,"9","16.44",,"1957",,"88",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039436,"YldQtl-Val_2014_ClayCenter_GOODSYN62_2228",229376,"GOODSYN62",,,"2228","2","3",3,51,,"6","16.8",,"1587",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039641,"YldQtl-Val_2014_ClayCenter_GOODSYN72_2179",234530,"GOODSYN72",,,"2179","1","18",18,42,,"4","17.56",,"2582",,"90",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039461,"YldQtl-Val_2014_ClayCenter_GOODSYN72_2386",234530,"GOODSYN72",,,"2386","2","19",19,49,,"2","17.43",,"2105",,"94",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039658,"YldQtl-Val_2014_ClayCenter_GOODSYN80_2180",228604,"GOODSYN80",,,"2180","1","18",18,43,,"3","17.39",,"2394",,"92",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039644,"YldQtl-Val_2014_ClayCenter_GOODSYN80_2385",228604,"GOODSYN80",,,"2385","2","19",19,48,,"2","17.63",,"1917",,"92",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039654,"YldQtl-Val_2014_ClayCenter_GOODSYN8_2157",232624,"GOODSYN8",,,"2157","1","16",16,40,,"2","16.34",,"3329",,"100",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039584,"YldQtl-Val_2014_ClayCenter_GOODSYN82_2142",230455,"GOODSYN82",,,"2142","1","15",15,35,,"3","18.59",,"2825",,"86",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039442,"YldQtl-Val_2014_ClayCenter_GOODSYN8_2219",232624,"GOODSYN8",,,"2219","2","2",2,52,,"3","17.5",,"2078",,"98",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039297,"YldQtl-Val_2014_ClayCenter_GOODSYN82_2302",230455,"GOODSYN82",,,"2302","2","11",11,45,,"4","17.49",,"3026",,"94",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039607,"YldQtl-Val_2014_ClayCenter_GOODSYN88_2141",230827,"GOODSYN88",,,"2141","1","15",15,34,,"3","16.88",,"2636",,"92",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039284,"YldQtl-Val_2014_ClayCenter_GOODSYN88_2301",230827,"GOODSYN88",,,"2301","2","11",11,44,,"3","16.65",,"2764",,"92",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039536,"YldQtl-Val_2014_ClayCenter_HW_124_2053",219201,"HW_124",,,"2053","1","6",6,36,,"3","15.52",,"4129",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039299,"YldQtl-Val_2014_ClayCenter_HW_124_2357",219201,"HW_124",,,"2357","2","16",16,50,,"3","16.34",,"2952",,"83",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039317,"YldQtl-Val_2014_ClayCenter_HW_132_2055",228435,"HW_132",,,"2055","1","6",6,38,,"3","15.86",,"3188",,"92",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039437,"YldQtl-Val_2014_ClayCenter_HW_132_2350",228435,"HW_132",,,"2350","2","15",15,53,,"4","16.87",,"1903",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039409,"YldQtl-Val_2014_ClayCenter_HW_133_2050",221305,"HW_133",,,"2050","1","5",5,43,,"2","16.4",,"3618",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039315,"YldQtl-Val_2014_ClayCenter_HW_133_2355",221305,"HW_133",,,"2355","2","16",16,48,,"3","16.98",,"2495",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039331,"YldQtl-Val_2014_ClayCenter_HW_141_2056",228863,"HW_141",,,"2056","1","6",6,39,,"3","15.4",,"3403",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039588,"YldQtl-Val_2014_ClayCenter_HW_141_2354",228863,"HW_141",,,"2354","2","16",16,47,,"4","16.4",,"2468",,"70",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039492,"YldQtl-Val_2014_ClayCenter_HW_155_2049",225486,"HW_155",,,"2049","1","5",5,42,,"2","16.62",,"3235",,"88",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039606,"YldQtl-Val_2014_ClayCenter_HW_155_2341",225486,"HW_155",,,"2341","2","15",15,44,,"2","16.61",,"2966",,"85",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039678,"YldQtl-Val_2014_ClayCenter_HW_174_2057",232480,"HW_174",,,"2057","1","6",6,40,,"4","15.28",,"4264",,"86",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039347,"YldQtl-Val_2014_ClayCenter_HW_174_2358",232480,"HW_174",,,"2358","2","16",16,51,,"4","17.01",,"2616",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039372,"YldQtl-Val_2014_ClayCenter_HW_175_2051",220903,"HW_175",,,"2051","1","6",6,34,,"4","15.59",,"3544",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039653,"YldQtl-Val_2014_ClayCenter_HW_175_2342",220903,"HW_175",,,"2342","2","15",15,45,,"3","16.08",,"3275",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039576,"YldQtl-Val_2014_ClayCenter_HW_182_2060",235092,"HW_182",,,"2060","1","6",6,43,,"3","14.82",,"3968",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039383,"YldQtl-Val_2014_ClayCenter_HW_182_2343",235092,"HW_182",,,"2343","2","15",15,46,,"4","15.7",,"3309",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039673,"YldQtl-Val_2014_ClayCenter_HW_237_2059",231864,"HW_237",,,"2059","1","6",6,42,,"2","15.16",,"4149",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039650,"YldQtl-Val_2014_ClayCenter_HW_237_2349",231864,"HW_237",,,"2349","2","15",15,52,,"3","16.33",,"2932",,"75",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039321,"YldQtl-Val_2014_ClayCenter_HW_240_2042",238796,"HW_240",,,"2042","1","5",5,35,,"2","16.76",,"3880",,"86",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039352,"YldQtl-Val_2014_ClayCenter_HW_240_2346",238796,"HW_240",,,"2346","2","15",15,49,,"3","16.98",,"3443",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039577,"YldQtl-Val_2014_ClayCenter_HW_246_2043",227686,"HW_246",,,"2043","1","5",5,36,,"2","16.05",,"3336",,"86",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039562,"YldQtl-Val_2014_ClayCenter_HW_246_2345",227686,"HW_246",,,"2345","2","15",15,48,,"3","16.24",,"2495",,"85",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039539,"YldQtl-Val_2014_ClayCenter_HW_256_2054",237462,"HW_256",,,"2054","1","6",6,37,,"1","15.61",,"3591",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039615,"YldQtl-Val_2014_ClayCenter_HW_256_2356",237462,"HW_256",,,"2356","2","16",16,49,,"2","16",,"3430",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039611,"YldQtl-Val_2014_ClayCenter_HW_261_2044",235511,"HW_261",,,"2044","1","5",5,37,,"4","15.52",,"4385",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039337,"YldQtl-Val_2014_ClayCenter_HW_261_2344",235511,"HW_261",,,"2344","2","15",15,47,,"3","16.44",,"3060",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039348,"YldQtl-Val_2014_ClayCenter_HW_266_2041",222833,"HW_266",,,"2041","1","5",5,34,,"3","15.87",,"3820",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039368,"YldQtl-Val_2014_ClayCenter_HW_266_2348",222833,"HW_266",,,"2348","2","15",15,51,,"3","17.13",,"3100",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039473,"YldQtl-Val_2014_ClayCenter_HW_267_2058",220821,"HW_267",,,"2058","1","6",6,41,,"3","16.07",,"3847",,"88",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039290,"YldQtl-Val_2014_ClayCenter_HW_267_2352",220821,"HW_267",,,"2352","2","16",16,45,,"2","16.97",,"2939",,"85",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039574,"YldQtl-Val_2014_ClayCenter_HW_29_2045",237622,"HW_29",,,"2045","1","5",5,38,,"4","17.54",,"2784",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039687,"YldQtl-Val_2014_ClayCenter_HW_29_2347",237622,"HW_29",,,"2347","2","15",15,50,,"2","18.3",,"1876",,"85",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039397,"YldQtl-Val_2014_ClayCenter_HW_37_2052",227264,"HW_37",,,"2052","1","6",6,35,,"3","15.49",,"3625",,"74",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039660,"YldQtl-Val_2014_ClayCenter_HW_37_2353",227264,"HW_37",,,"2353","2","16",16,46,,"4","16.25",,"3013",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039267,"YldQtl-Val_2014_ClayCenter_HW_44_2046",224962,"HW_44",,,"2046","1","5",5,39,,"3","15.39",,"4607",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039292,"YldQtl-Val_2014_ClayCenter_HW_44_2351",224962,"HW_44",,,"2351","2","16",16,44,,"2","16.05",,"3591",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039449,"YldQtl-Val_2014_ClayCenter_HW_83_2048",232435,"HW_83",,,"2048","1","5",5,41,,"5","18.22",,"2186",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039652,"YldQtl-Val_2014_ClayCenter_HW_83_2359",232435,"HW_83",,,"2359","2","16",16,52,,"4","19.61",,"504",,"79",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039586,"YldQtl-Val_2014_ClayCenter_HW_98_2047",230240,"HW_98",,,"2047","1","5",5,40,,"2","16.23",,"3632",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039255,"YldQtl-Val_2014_ClayCenter_HW_98_2360",230240,"HW_98",,,"2360","2","16",16,53,,"2","15.87",,"2993",,"70",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039579,"YldQtl-Val_2014_ClayCenter_NE06545_2093",220023,"NE06545",,,"2093","1","10",10,36,,"1","15.59",,"3961",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039405,"YldQtl-Val_2014_ClayCenter_NE06545_2273",220023,"NE06545",,,"2273","2","8",8,46,,"3","14.87",,"3551",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039488,"YldQtl-Val_2014_ClayCenter_NE12568_2021",231647,"NE12568",,,"2021","1","3",3,34,,"7","15.38",,"2340",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039479,"YldQtl-Val_2014_ClayCenter_NE12568_2251",231647,"NE12568",,,"2251","2","6",6,44,,"3","15.4",,"2387",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039392,"YldQtl-Val_2014_ClayCenter_NE12571_2022",227330,"NE12571",,,"2022","1","3",3,35,,"3","15.63",,"3551",,"88",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039310,"YldQtl-Val_2014_ClayCenter_NE12571_2252",227330,"NE12571",,,"2252","2","6",6,45,,"2","15.16",,"3914",,"90",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039665,"YldQtl-Val_2014_ClayCenter_NE13407_2089",233259,"NE13407",,,"2089","1","9",9,42,,"3","16.56",,"3208",,"72",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039496,"YldQtl-Val_2014_ClayCenter_NE13407_2395",233259,"NE13407",,,"2395","2","20",20,48,,"4","17.52",,"1984",,"74",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039313,"YldQtl-Val_2014_ClayCenter_NE13412_2151",238885,"NE13412",,,"2151","1","16",16,34,,"6","15.92",,"2313",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039258,"YldQtl-Val_2014_ClayCenter_NE13412_2392",238885,"NE13412",,,"2392","2","20",20,45,,"2","16.14",,"2441",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039400,"YldQtl-Val_2014_ClayCenter_NE13417_2090",237115,"NE13417",,,"2090","1","9",9,43,,"2","17.67",,"2932",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039561,"YldQtl-Val_2014_ClayCenter_NE13417_2396",237115,"NE13417",,,"2396","2","20",20,49,,"4","18.48",,"1688",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039298,"YldQtl-Val_2014_ClayCenter_NE13441_2062",236104,"NE13441",,,"2062","1","7",7,35,,"4","15.83",,"4143",,"90",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039676,"YldQtl-Val_2014_ClayCenter_NE13441_2299",236104,"NE13441",,,"2299","2","10",10,52,,"3","16.29",,"3161",,"90",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039639,"YldQtl-Val_2014_ClayCenter_NE13449_2012",226042,"NE13449",,,"2012","1","2",2,35,,"4","15.5",,"3356",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039407,"YldQtl-Val_2014_ClayCenter_NE13449_2216",226042,"NE13449",,,"2216","2","2",2,49,,"4","15.48",,"3094",,"77",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039287,"YldQtl-Val_2014_ClayCenter_NE13470_2070",239454,"NE13470",,,"2070","1","7",7,43,,"3","14.89",,"4667",,"74",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039530,"YldQtl-Val_2014_ClayCenter_NE13470_2382",239454,"NE13470",,,"2382","2","19",19,45,,"2","15.66",,"3632",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039362,"YldQtl-Val_2014_ClayCenter_NE13498_2182",225220,"NE13498",,,"2182","1","19",19,35,,"2","16.29",,"3147",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039476,"YldQtl-Val_2014_ClayCenter_NE13498_2296",225220,"NE13498",,,"2296","2","10",10,49,,"2","15.84",,"3033",,"90",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039524,"YldQtl-Val_2014_ClayCenter_NE13510_2069",221706,"NE13510",,,"2069","1","7",7,42,,"4","15.75",,"3941",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039448,"YldQtl-Val_2014_ClayCenter_NE13510_2381",221706,"NE13510",,,"2381","2","19",19,44,,"2","16.44",,"2818",,"72",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039535,"YldQtl-Val_2014_ClayCenter_NE13522_2165",228158,"NE13522",,,"2165","1","17",17,38,,"3","16.4",,"3060",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039444,"YldQtl-Val_2014_ClayCenter_NE13522_2315",228158,"NE13522",,,"2315","2","12",12,48,,"3","15.84",,"2939",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039495,"YldQtl-Val_2014_ClayCenter_NE13556_2195",229148,"NE13556",,,"2195","1","20",20,38,,"1","16.31",,"2919",,"92",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039610,"YldQtl-Val_2014_ClayCenter_NE13556_2256",229148,"NE13556",,,"2256","2","6",6,49,,"2","16.06",,"2730",,"94",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039585,"YldQtl-Val_2014_ClayCenter_NE13571_2181",238145,"NE13571",,,"2181","1","19",19,34,,"2","16.35",,"3107",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039501,"YldQtl-Val_2014_ClayCenter_NE13571_2295",238145,"NE13571",,,"2295","2","10",10,48,,"2","16.64",,"2905",,"90",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039682,"YldQtl-Val_2014_ClayCenter_NE13589_2110",221368,"NE13589",,,"2110","1","11",11,43,,"2","15.44",,"3948",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039527,"YldQtl-Val_2014_ClayCenter_NE13589_2286",221368,"NE13589",,,"2286","2","9",9,49,,"2","15.66",,"3443",,"89",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039498,"YldQtl-Val_2014_ClayCenter_NE13593_2171",220138,"NE13593",,,"2171","1","18",18,34,,"4","15.73",,"3490",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039254,"YldQtl-Val_2014_ClayCenter_NE13593_2297",220138,"NE13593",,,"2297","2","10",10,50,,"2","16.42",,"3416",,"90",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039618,"YldQtl-Val_2014_ClayCenter_NE13607_2153",221914,"NE13607",,,"2153","1","16",16,36,,"2","16.16",,"4243",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039413,"YldQtl-Val_2014_ClayCenter_NE13607_2294",221914,"NE13607",,,"2294","2","10",10,47,,"3","15.41",,"3773",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039513,"YldQtl-Val_2014_ClayCenter_NE13625_2174",221799,"NE13625",,,"2174","1","18",18,37,,"2","15.88",,"3450",,"90",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039470,"YldQtl-Val_2014_ClayCenter_NE13625_2282",221799,"NE13625",,,"2282","2","9",9,45,,"2","14.71",,"4687",,"88",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039642,"YldQtl-Val_2014_ClayCenter_NE13627_2196",232175,"NE13627",,,"2196","1","20",20,39,,"2","17.53",,"3329",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039411,"YldQtl-Val_2014_ClayCenter_NE13627_2255",232175,"NE13627",,,"2255","2","6",6,48,,"2","16.67",,"3289",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039456,"YldQtl-Val_2014_ClayCenter_NE13628_2011",231678,"NE13628",,,"2011","1","2",2,34,,"4","15.74",,"3329",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039433,"YldQtl-Val_2014_ClayCenter_NE13628_2215",231678,"NE13628",,,"2215","2","2",2,48,,"2","16.29",,"3080",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039353,"YldQtl-Val_2014_ClayCenter_NE13630_2152",229793,"NE13630",,,"2152","1","16",16,35,,"4","16.46",,"2831",,"72",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039605,"YldQtl-Val_2014_ClayCenter_NE13630_2391",229793,"NE13630",,,"2391","2","20",20,44,,"2","16.48",,"2784",,"70",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039582,"YldQtl-Val_2014_ClayCenter_NE13637_2154",236019,"NE13637",,,"2154","1","16",16,37,,"3","17.82",,"2818",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039630,"YldQtl-Val_2014_ClayCenter_NE13637_2293",236019,"NE13637",,,"2293","2","10",10,46,,"3","15.78",,"3046",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039659,"YldQtl-Val_2014_ClayCenter_NE13638_2061",229752,"NE13638",,,"2061","1","7",7,34,,"3","16.1",,"3692",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039460,"YldQtl-Val_2014_ClayCenter_NE13638_2300",229752,"NE13638",,,"2300","2","10",10,53,,"2","16",,"3329",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039293,"YldQtl-Val_2014_ClayCenter_NE13639_2166",229785,"NE13639",,,"2166","1","17",17,39,,"3","15.62",,"3544",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039454,"YldQtl-Val_2014_ClayCenter_NE13639_2316",229785,"NE13639",,,"2316","2","12",12,49,,"2","15.47",,"3490",,"90",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039270,"YldQtl-Val_2014_ClayCenter_NE13655_2106",238391,"NE13655",,,"2106","1","11",11,39,,"2","18.25",,"1782",,"94",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039366,"YldQtl-Val_2014_ClayCenter_NE13655_2230",238391,"NE13655",,,"2230","2","3",3,53,,"2","17.58",,"1338",,"92",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039590,"YldQtl-Val_2014_ClayCenter_NE13660_2105",235699,"NE13660",,,"2105","1","11",11,38,,"2","16.19",,"3605",,"90",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039583,"YldQtl-Val_2014_ClayCenter_NE13660_2229",235699,"NE13660",,,"2229","2","3",3,52,,"3","16.06",,"3046",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039295,"YldQtl-Val_2014_ClayCenter_NE13680_2172",226726,"NE13680",,,"2172","1","18",18,35,,"3","16.53",,"3114",,"94",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039373,"YldQtl-Val_2014_ClayCenter_NE13680_2298",226726,"NE13680",,,"2298","2","10",10,51,,"2","16.76",,"2529",,"92",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039517,"YldQtl-Val_2014_ClayCenter_NE13695_2173",234507,"NE13695",,,"2173","1","18",18,36,,"2","16.94",,"3289",,"94",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039386,"YldQtl-Val_2014_ClayCenter_NE13695_2281",234507,"NE13695",,,"2281","2","9",9,44,,"2","16.78",,"3067",,"93",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039282,"YldQtl-Val_2014_ClayCenter_NE13697_2027",227403,"NE13697",,,"2027","1","3",3,40,,"2","13.69",,"4539",,"86",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039526,"YldQtl-Val_2014_ClayCenter_NE13697_2394",227403,"NE13697",,,"2394","2","20",20,47,,"2","16.43",,"3154",,"85",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039474,"YldQtl-Val_2014_ClayCenter_NE13698_2028",224360,"NE13698",,,"2028","1","3",3,41,,"2","15.22",,"4452",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039300,"YldQtl-Val_2014_ClayCenter_NE13698_2393",224360,"NE13698",,,"2393","2","20",20,46,,"2","16.47",,"3463",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039632,"YldQtl-Val_2014_ClayCenter_NE13700_2109",229258,"NE13700",,,"2109","1","11",11,42,,"1","16.58",,"3477",,"88",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039288,"YldQtl-Val_2014_ClayCenter_NE13700_2285",229258,"NE13700",,,"2285","2","9",9,48,,"2","16.58",,"2959",,"92",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039259,"YldQtl-Val_2014_ClayCenter_NH13415_2095",220291,"NH13415",,,"2095","1","10",10,38,,"3","15.74",,"4089",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039663,"YldQtl-Val_2014_ClayCenter_NH13415_2205",220291,"NH13415",,,"2205","2","1",1,48,,"4","15.59",,"3389",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039420,"YldQtl-Val_2014_ClayCenter_NH13606_2096",230189,"NH13606",,,"2096","1","10",10,39,,"2","16.08",,"3665",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039556,"YldQtl-Val_2014_ClayCenter_NH13606_2206",230189,"NH13606",,,"2206","2","1",1,49,,"2","15.32",,"3275",,"78",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039475,"YldQtl-Val_2014_ClayCenter_NH13692_2074",229500,"NH13692",,,"2074","1","8",8,37,,"2","13.9",,"4506",,"98",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039401,"YldQtl-Val_2014_ClayCenter_NH13692_2224",229500,"NH13692",,,"2224","2","3",3,47,,"2","15.07",,"3087",,"100",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039371,"YldQtl-Val_2014_ClayCenter_NH13693_2073",236094,"NH13693",,,"2073","1","8",8,36,,"5","15.92",,"3369",,"90",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039481,"YldQtl-Val_2014_ClayCenter_NH13693_2223",236094,"NH13693",,,"2223","2","3",3,46,,"2","14.27",,"3389",,"90",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039378,"YldQtl-Val_2014_ClayCenter_NW13455_2009",236899,"NW13455",,,"2009","1","1",1,42,,"3","15.15",,"3887",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039502,"YldQtl-Val_2014_ClayCenter_NW13455_2214",236899,"NW13455",,,"2214","2","2",2,47,,"3","15.15",,"3746",,"85",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039555,"YldQtl-Val_2014_ClayCenter_NW13457_2002",229414,"NW13457",,,"2002","1","1",1,35,,"2","15.45",,"3383",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039385,"YldQtl-Val_2014_ClayCenter_NW13457_2271",229414,"NW13457",,,"2271","2","8",8,44,,"2","15.6",,"3215",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039468,"YldQtl-Val_2014_ClayCenter_NW13499_2100",224032,"NW13499",,,"2100","1","10",10,43,,"2","14.65",,"3813",,"90",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039548,"YldQtl-Val_2014_ClayCenter_NW13499_2335",224032,"NW13499",,,"2335","2","14",14,48,,"2","15.14",,"3436",,"94",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039656,"YldQtl-Val_2014_ClayCenter_NW13502_2003",228689,"NW13502",,,"2003","1","1",1,36,,"1","16.06",,"3753",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039522,"YldQtl-Val_2014_ClayCenter_NW13502_2284",228689,"NW13502",,,"2284","2","9",9,47,,"2","16",,"3295",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039440,"YldQtl-Val_2014_ClayCenter_NW13516_2184",238891,"NW13516",,,"2184","1","19",19,37,,"2","14.91",,"3248",,"74",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039551,"YldQtl-Val_2014_ClayCenter_NW13516_2311",238891,"NW13516",,,"2311","2","12",12,44,,"3","15.32",,"3262",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039664,"YldQtl-Val_2014_ClayCenter_NW13526_2010",223421,"NW13526",,,"2010","1","1",1,43,,"2","15.34",,"3759",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039425,"YldQtl-Val_2014_ClayCenter_NW13526_2213",223421,"NW13526",,,"2213","2","2",2,46,,"4","16",,"3410",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039592,"YldQtl-Val_2014_ClayCenter_NW13536_2079",225341,"NW13536",,,"2079","1","8",8,42,,"1","15.67",,"4089",,"70",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039263,"YldQtl-Val_2014_ClayCenter_NW13536_2226",225341,"NW13536",,,"2226","2","3",3,49,,"3","15.33",,"3793",,"75",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039616,"YldQtl-Val_2014_ClayCenter_NW13559_2063",225528,"NW13559",,,"2063","1","7",7,36,,"2","15.71",,"4365",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039471,"YldQtl-Val_2014_ClayCenter_NW13559_2212",225528,"NW13559",,,"2212","2","2",2,45,,"4","15.19",,"3793",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039374,"YldQtl-Val_2014_ClayCenter_NW13563_2183",229375,"NW13563",,,"2183","1","19",19,36,,"3","15.38",,"3329",,"70",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039516,"YldQtl-Val_2014_ClayCenter_NW13563_2312",229375,"NW13563",,,"2312","2","12",12,45,,"3","15.21",,"3174",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039614,"YldQtl-Val_2014_ClayCenter_NW13572_2099",230650,"NW13572",,,"2099","1","10",10,42,,"1","16.48",,"3806",,"92",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039487,"YldQtl-Val_2014_ClayCenter_NW13572_2336",230650,"NW13572",,,"2336","2","14",14,49,,"2","16.29",,"3423",,"94",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039547,"YldQtl-Val_2014_ClayCenter_NW13575_2004",220017,"NW13575",,,"2004","1","1",1,37,,"2","16.47",,"3188",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039296,"YldQtl-Val_2014_ClayCenter_NW13575_2283",220017,"NW13575",,,"2283","2","9",9,46,,"2","16.09",,"3941",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039542,"YldQtl-Val_2014_ClayCenter_NW13596_2064",231002,"NW13596",,,"2064","1","7",7,37,,"1","14.81",,"3652",,"90",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039458,"YldQtl-Val_2014_ClayCenter_NW13596_2211",231002,"NW13596",,,"2211","2","2",2,44,,"2","15.67",,"3927",,"86",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039274,"YldQtl-Val_2014_ClayCenter_NW13615_2001",230105,"NW13615",,,"2001","1","1",1,34,,"2","15.33",,"3423",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039390,"YldQtl-Val_2014_ClayCenter_NW13615_2272",230105,"NW13615",,,"2272","2","8",8,45,,"2","16.11",,"3302",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039497,"YldQtl-Val_2014_ClayCenter_NW13652_2029",233459,"NW13652",,,"2029","1","3",3,42,,"2","14.92",,"3847",,"92",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039677,"YldQtl-Val_2014_ClayCenter_NW13652_2397",233459,"NW13652",,,"2397","2","20",20,50,,"2","16.82",,"2751",,"88",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039486,"YldQtl-Val_2014_ClayCenter_NW13666_2080",230006,"NW13666",,,"2080","1","8",8,43,,"1","15.4",,"3847",,"60",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039685,"YldQtl-Val_2014_ClayCenter_NW13666_2225",230006,"NW13666",,,"2225","2","3",3,48,,"3","15.16",,"2919",,"70",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039306,"YldQtl-Val_2014_ClayCenter_NW13669_2030",238003,"NW13669",,,"2030","1","3",3,43,,"2","15.38",,"4250",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039358,"YldQtl-Val_2014_ClayCenter_NW13669_2398",238003,"NW13669",,,"2398","2","20",20,51,,"2","16.82",,"3107",,"83",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039533,"YldQtl-Val_2014_ClayCenter_TX1112_10_2250",221584,"TX1112_10",,,"2250","2","5",5,53,,"6","15.29",,"2522",,"86",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039264,"YldQtl-Val_2014_ClayCenter_TX1112_10_3118",221584,"TX1112_10",,,"3118","1","22",22,41,,"2","15.19",,"3652",,"74",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039573,"YldQtl-Val_2014_ClayCenter_TX1112_105_2245",226243,"TX1112_105",,,"2245","2","5",5,48,,"3","16.56",,"2986",,"90",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039361,"YldQtl-Val_2014_ClayCenter_TX1112_105_3101",226243,"TX1112_105",,,"3101","1","21",21,34,,"4","17.02",,"2959",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039523,"YldQtl-Val_2014_ClayCenter_TX1112_108_2232",230387,"TX1112_108",,,"2232","2","4",4,45,,"7","16.01",,"2959",,"85",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039451,"YldQtl-Val_2014_ClayCenter_TX1112_108_3102",230387,"TX1112_108",,,"3102","1","21",21,35,,"4","16.72",,"2912",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039459,"YldQtl-Val_2014_ClayCenter_TX1112_111_2241",230685,"TX1112_111",,,"2241","2","5",5,44,,"3","15.81",,"2966",,"86",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039575,"YldQtl-Val_2014_ClayCenter_TX1112_111_3110",230685,"TX1112_111",,,"3110","1","21",21,43,,"1","16.13",,"3188",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039335,"YldQtl-Val_2014_ClayCenter_TX1112_112_2235",220508,"TX1112_112",,,"2235","2","4",4,48,,"4","16.08",,"2798",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039415,"YldQtl-Val_2014_ClayCenter_TX1112_11_2238",231772,"TX1112_11",,,"2238","2","4",4,51,,"6","14.95",,"2878",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039417,"YldQtl-Val_2014_ClayCenter_TX1112_112_3119",220508,"TX1112_112",,,"3119","1","22",22,42,,"3","16.52",,"3073",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039377,"YldQtl-Val_2014_ClayCenter_TX1112_11_3103",231772,"TX1112_11",,,"3103","1","21",21,36,,"4","16.05",,"3188",,"74",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039257,"YldQtl-Val_2014_ClayCenter_TX1112_113_2248",219455,"TX1112_113",,,"2248","2","5",5,51,,"4","15.61",,"2508",,"70",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039499,"YldQtl-Val_2014_ClayCenter_TX1112_113_3116",219455,"TX1112_113",,,"3116","1","22",22,39,,"3","15.41",,"3510",,"74",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039260,"YldQtl-Val_2014_ClayCenter_TX1112_115_2233",226904,"TX1112_115",,,"2233","2","4",4,46,,"4","14.49",,"3403",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039672,"YldQtl-Val_2014_ClayCenter_TX1112_115_3112",226904,"TX1112_115",,,"3112","1","22",22,35,,"2","15.37",,"3537",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039515,"YldQtl-Val_2014_ClayCenter_TX1112_119_2243",237668,"TX1112_119",,,"2243","2","5",5,46,,"3","16.36",,"3147",,"86",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039426,"YldQtl-Val_2014_ClayCenter_TX1112_119_3111",237668,"TX1112_119",,,"3111","1","22",22,34,,"2","16.53",,"3201",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039304,"YldQtl-Val_2014_ClayCenter_TX1112_122_2242",230431,"TX1112_122",,,"2242","2","5",5,45,,"2","15.28",,"3867",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039484,"YldQtl-Val_2014_ClayCenter_TX1112_122_3104",230431,"TX1112_122",,,"3104","1","21",21,37,,"3","16.72",,"3221",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039273,"YldQtl-Val_2014_ClayCenter_TX1112_123_2246",236682,"TX1112_123",,,"2246","2","5",5,49,,"4","17.37",,"3215",,"88",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039683,"YldQtl-Val_2014_ClayCenter_TX1112_123_3115",236682,"TX1112_123",,,"3115","1","22",22,38,,"2","17.71",,"3389",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039620,"YldQtl-Val_2014_ClayCenter_TX1112_124_2231",233875,"TX1112_124",,,"2231","2","4",4,44,,"4","15.71",,"3383",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039669,"YldQtl-Val_2014_ClayCenter_TX1112_124_3120",233875,"TX1112_124",,,"3120","1","22",22,43,,"4","16.04",,"3363",,"70",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039441,"YldQtl-Val_2014_ClayCenter_TX1112_46_2240",234609,"TX1112_46",,,"2240","2","4",4,53,,"5","14.24",,"2482",,"70",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039619,"YldQtl-Val_2014_ClayCenter_TX1112_46_3109",234609,"TX1112_46",,,"3109","1","21",21,42,,"3","15.05",,"3161",,"70",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039491,"YldQtl-Val_2014_ClayCenter_TX1112_48_2236",226242,"TX1112_48",,,"2236","2","4",4,49,,"4","15.9",,"3174",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039336,"YldQtl-Val_2014_ClayCenter_TX1112_48_3107",226242,"TX1112_48",,,"3107","1","21",21,40,,"4","15.63",,"3995",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039308,"YldQtl-Val_2014_ClayCenter_TX1112_52_2249",224639,"TX1112_52",,,"2249","2","5",5,52,,"2","15.02",,"3396",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039493,"YldQtl-Val_2014_ClayCenter_TX1112_52_3108",224639,"TX1112_52",,,"3108","1","21",21,41,,"2","15.41",,"3833",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039505,"YldQtl-Val_2014_ClayCenter_TX1112_63_2237",235124,"TX1112_63",,,"2237","2","4",4,50,,"2","15.04",,"2966",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039280,"YldQtl-Val_2014_ClayCenter_TX1112_63_3114",235124,"TX1112_63",,,"3114","1","22",22,37,,"2","15.39",,"3497",,"76",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039552,"YldQtl-Val_2014_ClayCenter_TX1112_65_2234",230673,"TX1112_65",,,"2234","2","4",4,47,,"3","15.92",,"3322",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039319,"YldQtl-Val_2014_ClayCenter_TX1112_65_3106",230673,"TX1112_65",,,"3106","1","21",21,39,,"2","16.72",,"3383",,"82",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039380,"YldQtl-Val_2014_ClayCenter_TX1112_67_2247",235501,"TX1112_67",,,"2247","2","5",5,50,,"3","15.11",,"3046",,"90",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039564,"YldQtl-Val_2014_ClayCenter_TX1112_67_3117",235501,"TX1112_67",,,"3117","1","22",22,40,,"2","15.66",,"3228",,"88",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039269,"YldQtl-Val_2014_ClayCenter_TX1112_69_2239",229992,"TX1112_69",,,"2239","2","4",4,52,,"4","16.27",,"2340",,"80",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039657,"YldQtl-Val_2014_ClayCenter_TX1112_69_3113",229992,"TX1112_69",,,"3113","1","22",22,36,,"2","16.32",,"3073",,"84",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039510,"YldQtl-Val_2014_ClayCenter_TX1112_87_2244",230945,"TX1112_87",,,"2244","2","5",5,47,,"3","14.99",,"3490",,"86",
+6104,"YldQtl-Val_2014_ClayCenter","2014","Clay Center, NE",1039388,"YldQtl-Val_2014_ClayCenter_TX1112_87_3105",230945,"TX1112_87",,,"3105","1","21",21,38,,"5","15.66",,"3356",,"74",
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024220,"YldQtl-Val_2014_Lincoln_11_26_2009",222467,"11_26",,,"2009","1","1",1,39,"143","2","15.86","811","4398","172","84","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024235,"YldQtl-Val_2014_Lincoln_11_26_2390",222467,"11_26",,,"2390","2","19",19,50,"145","3","15.05","799","5192","175","95","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024001,"YldQtl-Val_2014_Lincoln_11_73_2010",221091,"11_73",,,"2010","1","1",1,40,"146","1","15.62","803","4452","175","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024346,"YldQtl-Val_2014_Lincoln_11_73_2389",221091,"11_73",,,"2389","2","19",19,49,"147","1","15.08","788","5279","179","102","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024297,"YldQtl-Val_2014_Lincoln_13_13_2187",219436,"13_13",,,"2187","1","19",19,37,"149","1","15.98","774","4398","178","96","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024234,"YldQtl-Val_2014_Lincoln_13_13_2369",219436,"13_13",,,"2369","2","17",17,49,"149","2","16.26","762","4257","177","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024107,"YldQtl-Val_2014_Lincoln_13_59_2188",220888,"13_59",,,"2188","1","19",19,38,"149","1","15.01","763","5138","179","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024158,"YldQtl-Val_2014_Lincoln_13_59_2370",220888,"13_59",,,"2370","2","17",17,50,"150","2","15.33","729","4486","180","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024131,"YldQtl-Val_2014_Lincoln_14_10_2097",219890,"14_10",,,"2097","1","10",10,37,"149","1","14.61","803","5219","178","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024067,"YldQtl-Val_2014_Lincoln_14_10_2237",219890,"14_10",,,"2237","2","4",4,47,"148","3","15.07",,"4849","178","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024298,"YldQtl-Val_2014_Lincoln_14_2_2091",226856,"14_2",,,"2091","1","10",10,31,"148","1","15.72","817","4748","177","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024145,"YldQtl-Val_2014_Lincoln_14_22_2092",224303,"14_22",,,"2092","1","10",10,32,"146","1","14.84","780","5037","178","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024351,"YldQtl-Val_2014_Lincoln_14_22_2236",224303,"14_22",,,"2236","2","4",4,46,"148","3","15.2","754","4122","178","89","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024095,"YldQtl-Val_2014_Lincoln_14_2_2239",226856,"14_2",,,"2239","2","4",4,49,"148","1","15.65","798","5588","178","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024362,"YldQtl-Val_2014_Lincoln_14_23_2093",232511,"14_23",,,"2093","1","10",10,33,"148","1","15.77","786","4687","176","76","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024061,"YldQtl-Val_2014_Lincoln_14_23_2233",232511,"14_23",,,"2233","2","4",4,43,"148","1","15.1","756","4701","179","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024272,"YldQtl-Val_2014_Lincoln_14_31_2099",231862,"14_31",,,"2099","1","10",10,39,"148","1","14.44","790","5239","177","84","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024076,"YldQtl-Val_2014_Lincoln_14_31_2232",231862,"14_31",,,"2232","2","4",4,42,"148","1","14.31","780","5024","178","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024166,"YldQtl-Val_2014_Lincoln_14_65_2100",219946,"14_65",,,"2100","1","10",10,40,"148","1","15.18","792","4842","177","92","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024352,"YldQtl-Val_2014_Lincoln_14_65_2240",219946,"14_65",,,"2240","2","4",4,50,"148","2","14.96","788","4842","177","93","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024390,"YldQtl-Val_2014_Lincoln_14_66_2098",231269,"14_66",,,"2098","1","10",10,38,"149","1","15.55","798","4620","178","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024345,"YldQtl-Val_2014_Lincoln_14_66_2231",231269,"14_66",,,"2231","2","4",4,41,"148","1","15.72","786","4553","178","80","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024009,"YldQtl-Val_2014_Lincoln_14_71_2095",224938,"14_71",,,"2095","1","10",10,35,"149","1","14.73","786","5528","176","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024148,"YldQtl-Val_2014_Lincoln_14_71_2234",224938,"14_71",,,"2234","2","4",4,44,"148","2","14.57","800","5441","178","91","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024043,"YldQtl-Val_2014_Lincoln_14_83_2096",227538,"14_83",,,"2096","1","10",10,36,"149","1","14.99",,"5548","178","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024071,"YldQtl-Val_2014_Lincoln_14_83_2238",227538,"14_83",,,"2238","2","4",4,48,"148","1","14.84","790","5172","179","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024410,"YldQtl-Val_2014_Lincoln_14_88_2094",221638,"14_88",,,"2094","1","10",10,34,"149","2","15.91","818","5615","175","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024033,"YldQtl-Val_2014_Lincoln_14_88_2235",221638,"14_88",,,"2235","2","4",4,45,"147","2","16.23","811","5050","176","91","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024331,"YldQtl-Val_2014_Lincoln_15_18_2035",224714,"15_18",,,"2035","1","4",4,35,"146","2","14.77","790","4210","178","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024320,"YldQtl-Val_2014_Lincoln_15_18_2319",224714,"15_18",,,"2319","2","12",12,49,"146","1","14.58","802","5037","177","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024397,"YldQtl-Val_2014_Lincoln_15_44_2036",222491,"15_44",,,"2036","1","4",4,36,"145","1","15.3","772","5044","175","84","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024108,"YldQtl-Val_2014_Lincoln_15_44_2320",222491,"15_44",,,"2320","2","12",12,50,"146","1","14.92","801","5158","176","89","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024341,"YldQtl-Val_2014_Lincoln_4_12_2043",226436,"4_12",,,"2043","1","5",5,33,"147","3","14.79","769","4660","177","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024019,"YldQtl-Val_2014_Lincoln_4_12_2352",226436,"4_12",,,"2352","2","16",16,42,"149","1","15.59","744","4129","178","85","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024399,"YldQtl-Val_2014_Lincoln_4_19_2044",224141,"4_19",,,"2044","1","5",5,34,"146","1","15.06","787","4418","175","78","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024278,"YldQtl-Val_2014_Lincoln_4_19_2351",224141,"4_19",,,"2351","2","16",16,41,"146","2","15.17","777","5387","175","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024412,"YldQtl-Val_2014_Lincoln_7_101_2071",237931,"7_101",,,"2071","1","8",8,31,"146","1","15.51","807","4351","178","91","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024364,"YldQtl-Val_2014_Lincoln_7_101_2296",237931,"7_101",,,"2296","2","10",10,46,"146","1","15.48","796","4822","178","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024395,"YldQtl-Val_2014_Lincoln_7_105_2075",231246,"7_105",,,"2075","1","8",8,35,"148","1","14.99","791","5246","180","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024326,"YldQtl-Val_2014_Lincoln_7_105_2294",231246,"7_105",,,"2294","2","10",10,44,"148","1","15.08","795","4997","175","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024393,"YldQtl-Val_2014_Lincoln_7_11_2074",222598,"7_11",,,"2074","1","8",8,34,"149","1","14.71","778","5434","180","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024402,"YldQtl-Val_2014_Lincoln_7_11_2300",222598,"7_11",,,"2300","2","10",10,50,"146","2","14.8","761","4304","177","89","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024005,"YldQtl-Val_2014_Lincoln_7_140_2079",236581,"7_140",,,"2079","1","8",8,39,"149","1","16.42","791","5084","178","96","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024167,"YldQtl-Val_2014_Lincoln_7_140_2293",236581,"7_140",,,"2293","2","10",10,43,"148","1","16.79","790","4950","178","93","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024191,"YldQtl-Val_2014_Lincoln_7_29_2077",220883,"7_29",,,"2077","1","8",8,37,"146","2","15.64","790","4916","177","101","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024142,"YldQtl-Val_2014_Lincoln_7_29_2298",220883,"7_29",,,"2298","2","10",10,48,"148","1","15.01","784","4956","178","102","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024025,"YldQtl-Val_2014_Lincoln_7_45_2076",220493,"7_45",,,"2076","1","8",8,36,"148","1","14.85","771","5400","179","92","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024269,"YldQtl-Val_2014_Lincoln_7_45_2297",220493,"7_45",,,"2297","2","10",10,47,"148","1","14.86","770","4418","178","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024413,"YldQtl-Val_2014_Lincoln_7_55_2080",236657,"7_55",,,"2080","1","8",8,40,"150","3","15.22","774","4808","179","96","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024270,"YldQtl-Val_2014_Lincoln_7_55_2299",236657,"7_55",,,"2299","2","10",10,49,"146","2","14.49","766","4539","178","103","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024291,"YldQtl-Val_2014_Lincoln_7_61_2073",225053,"7_61",,,"2073","1","8",8,33,"146","2","16.13","789","4243","179","112","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024357,"YldQtl-Val_2014_Lincoln_7_61_2292",225053,"7_61",,,"2292","2","10",10,42,"146","1","14.64","800","5145","177","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024361,"YldQtl-Val_2014_Lincoln_7_86_2072",222429,"7_86",,,"2072","1","8",8,32,"149","1","15.42","785","4977","178","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024423,"YldQtl-Val_2014_Lincoln_7_86_2295",222429,"7_86",,,"2295","2","10",10,45,"147","2","15.44","783","4096","180","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024257,"YldQtl-Val_2014_Lincoln_7_9_2078",225766,"7_9",,,"2078","1","8",8,38,"148","4","16.15","788","4405","176","80","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024401,"YldQtl-Val_2014_Lincoln_7_9_2291",225766,"7_9",,,"2291","2","10",10,41,"147","1","15.98","785","4687","176","102","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024023,"YldQtl-Val_2014_Lincoln_CO11D1111_2148",219703,"CO11D1111",,,"2148","1","15",15,38,"146","2","14.18","791","5232","174","84","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024065,"YldQtl-Val_2014_Lincoln_CO11D1111_2246",219703,"CO11D1111",,,"2246","2","5",5,46,"146","1","14.24","771","4365","175","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024252,"YldQtl-Val_2014_Lincoln_CO11D1119_2150",223338,"CO11D1119",,,"2150","1","15",15,40,"149","1","15.56","765","4096","179","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024121,"YldQtl-Val_2014_Lincoln_CO11D1119_2245",223338,"CO11D1119",,,"2245","2","5",5,45,"148","1","16.01","761","3652","179","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024087,"YldQtl-Val_2014_Lincoln_CO11D1125_2149",226591,"CO11D1125",,,"2149","1","15",15,39,"149","2","15.71","751","4634","179","92","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024335,"YldQtl-Val_2014_Lincoln_CO11D1125_2243",226591,"CO11D1125",,,"2243","2","5",5,43,"148","2","15.35","758","4412","177","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024175,"YldQtl-Val_2014_Lincoln_CO11D1127_2147",234837,"CO11D1127",,,"2147","1","15",15,37,"144","2","14.94","802","4876","172","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024325,"YldQtl-Val_2014_Lincoln_CO11D1127_2244",234837,"CO11D1127",,,"2244","2","5",5,44,"144","2","14.78","802","4512","173","84","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024226,"YldQtl-Val_2014_Lincoln_CO11D1140_2064",239021,"CO11D1140",,,"2064","1","7",7,34,"147","1","14.44","763","4203","175","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024156,"YldQtl-Val_2014_Lincoln_CO11D1140_2364",239021,"CO11D1140",,,"2364","2","17",17,44,"146","2","14.08","759","4351","178","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024161,"YldQtl-Val_2014_Lincoln_CO11D1156_2061",221273,"CO11D1156",,,"2061","1","7",7,31,"146","1","13.73","801","3282","178","96","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024139,"YldQtl-Val_2014_Lincoln_CO11D1156_2365",221273,"CO11D1156",,,"2365","2","17",17,45,"149","1","13.51","792","4963","179","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024293,"YldQtl-Val_2014_Lincoln_CO11D1159_2063",228231,"CO11D1159",,,"2063","1","7",7,33,"146","2","15.53","782","4096","175","84","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024381,"YldQtl-Val_2014_Lincoln_CO11D1159_2363",228231,"CO11D1159",,,"2363","2","17",17,43,"145","2","14.51","799","5225","178","92","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024113,"YldQtl-Val_2014_Lincoln_CO11D1174_2087",239531,"CO11D1174",,,"2087","1","9",9,37,"144","3","14.68","775","5259","175","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024202,"YldQtl-Val_2014_Lincoln_CO11D1174_2282",239531,"CO11D1174",,,"2282","2","9",9,42,"146","7","15.38","740","4048","177","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024231,"YldQtl-Val_2014_Lincoln_CO11D1182_2086",233597,"CO11D1182",,,"2086","1","9",9,36,"144","1","15.46","806","5360","175","83","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024221,"YldQtl-Val_2014_Lincoln_CO11D1182_2283",233597,"CO11D1182",,,"2283","2","9",9,43,"146","2","15.4","796","4694","176","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024243,"YldQtl-Val_2014_Lincoln_CO11D1186_2088",236429,"CO11D1186",,,"2088","1","9",9,38,"146","3","15.84","776","4647","175","84","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024205,"YldQtl-Val_2014_Lincoln_CO11D1186_2284",236429,"CO11D1186",,,"2284","2","9",9,44,"146","2","15.75","780","4546","175","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024178,"YldQtl-Val_2014_Lincoln_CO11D1190_2085",229003,"CO11D1190",,,"2085","1","9",9,35,"146","1","14.88","784","5219","178","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024322,"YldQtl-Val_2014_Lincoln_CO11D1190_2281",229003,"CO11D1190",,,"2281","2","9",9,41,"146","2","14.69","783","4923","177","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024255,"YldQtl-Val_2014_Lincoln_CO11D1213_2038",224686,"CO11D1213",,,"2038","1","4",4,38,"146","1","14.22","791","4701","176","78","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024295,"YldQtl-Val_2014_Lincoln_CO11D1213_2400",224686,"CO11D1213",,,"2400","2","20",20,50,"146","3","13.58","787","5198","175","85","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024066,"YldQtl-Val_2014_Lincoln_CO11D1219_2040",220098,"CO11D1219",,,"2040","1","4",4,40,"148","2","15.97","788","4122","178","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024228,"YldQtl-Val_2014_Lincoln_CO11D1219_2398",220098,"CO11D1219",,,"2398","2","20",20,48,"147","2","15.45","774","4304","179","95","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024041,"YldQtl-Val_2014_Lincoln_CO11D1221_2039",232578,"CO11D1221",,,"2039","1","4",4,39,"147","1","14.85","766","4781","178","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024068,"YldQtl-Val_2014_Lincoln_CO11D1221_2399",232578,"CO11D1221",,,"2399","2","20",20,49,"146","2","14.61","760","4425","177","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024057,"YldQtl-Val_2014_Lincoln_CO11D1231_2037",229801,"CO11D1231",,,"2037","1","4",4,37,"146","3","14.22","777","5024","175","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024206,"YldQtl-Val_2014_Lincoln_CO11D1231_2397",229801,"CO11D1231",,,"2397","2","20",20,47,"146","4","14.26","732","4755","180","100","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024389,"YldQtl-Val_2014_Lincoln_CO11D1236_2200",238135,"CO11D1236",,,"2200","1","20",20,40,"146","2","14.12","776","5272","178","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024313,"YldQtl-Val_2014_Lincoln_CO11D1236_2356",238135,"CO11D1236",,,"2356","2","16",16,46,"146","2","13.9","762","5400","178","96","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024366,"YldQtl-Val_2014_Lincoln_CO11D1240_2198",228459,"CO11D1240",,,"2198","1","20",20,38,"146","1","14.88","777","5198","176","72","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024090,"YldQtl-Val_2014_Lincoln_CO11D1240_2355",228459,"CO11D1240",,,"2355","2","16",16,45,"146","3","14.98","754","4728","178","78","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024046,"YldQtl-Val_2014_Lincoln_CO11D1248_2197",228826,"CO11D1248",,,"2197","1","20",20,37,"146","1","15.53","796","5387","177","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024082,"YldQtl-Val_2014_Lincoln_CO11D1248_2358",228826,"CO11D1248",,,"2358","2","16",16,48,"146","1","14.93","799","5353","176","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024053,"YldQtl-Val_2014_Lincoln_CO11D1268_2199",232332,"CO11D1268",,,"2199","1","20",20,39,"148","3","14.8","805","5555","179","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024132,"YldQtl-Val_2014_Lincoln_CO11D1268_2357",232332,"CO11D1268",,,"2357","2","16",16,47,"146","1","14.5","802","5360","178","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024287,"YldQtl-Val_2014_Lincoln_CO11D1287_2012",225798,"CO11D1287",,,"2012","1","2",2,32,"145","1","14.36","801","4560","175","84","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024193,"YldQtl-Val_2014_Lincoln_CO11D1287_2277",225798,"CO11D1287",,,"2277","2","8",8,47,"146","3","14.18","769","4445","175","92","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024316,"YldQtl-Val_2014_Lincoln_CO11D1298_2013",236129,"CO11D1298",,,"2013","1","2",2,33,"146","1","13.53","794","3901","175","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024274,"YldQtl-Val_2014_Lincoln_CO11D1298_2275",236129,"CO11D1298",,,"2275","2","8",8,45,"148","1","13.42","771","5232","178","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024016,"YldQtl-Val_2014_Lincoln_CO11D1302W_2014",237359,"CO11D1302W",,,"2014","1","2",2,34,"146","2","14.17","805","4741","173","80","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024154,"YldQtl-Val_2014_Lincoln_CO11D1302W_2278",237359,"CO11D1302W",,,"2278","2","8",8,48,"146","3","13.84","774","4600","176","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024208,"YldQtl-Val_2014_Lincoln_CO11D1312_2011",219882,"CO11D1312",,,"2011","1","2",2,31,"146","1","14.53","796","3746","175","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024022,"YldQtl-Val_2014_Lincoln_CO11D1312_2276",219882,"CO11D1312",,,"2276","2","8",8,46,"146","2","14.08","770","5447","177","92","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024216,"YldQtl-Val_2014_Lincoln_CO11D1315W_2026",237835,"CO11D1315W",,,"2026","1","3",3,36,"147","1","14.53","763","4728","177","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024116,"YldQtl-Val_2014_Lincoln_CO11D1315W_2288",237835,"CO11D1315W",,,"2288","2","9",9,48,"148","7","15.18","731","3268","178","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024418,"YldQtl-Val_2014_Lincoln_CO11D1316W_2025",231303,"CO11D1316W",,,"2025","1","3",3,35,"147","3","14.29","766","4230","178","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024094,"YldQtl-Val_2014_Lincoln_CO11D1316W_2287",231303,"CO11D1316W",,,"2287","2","9",9,47,"148","6","14.55","758","3968","180","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024035,"YldQtl-Val_2014_Lincoln_CO11D1322_2027",225330,"CO11D1322",,,"2027","1","3",3,37,"147","1","14.9","767","4573","176","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024265,"YldQtl-Val_2014_Lincoln_CO11D1322_2286",225330,"CO11D1322",,,"2286","2","9",9,46,"148","3","15.05","750","3968","176","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024342,"YldQtl-Val_2014_Lincoln_CO11D1341_2028",229915,"CO11D1341",,,"2028","1","3",3,38,"147","1","14.7","806","5326","176","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024275,"YldQtl-Val_2014_Lincoln_CO11D1341_2285",229915,"CO11D1341",,,"2285","2","9",9,45,"147","1","14.78","800","5333","176","93","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024356,"YldQtl-Val_2014_Lincoln_CO11D1353_2018",227570,"CO11D1353",,,"2018","1","2",2,38,"147","1","14.12","792","4728","175","91","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024036,"YldQtl-Val_2014_Lincoln_CO11D1353_2201",227570,"CO11D1353",,,"2201","2","1",1,41,"147","2","14.15","795","4909","177","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024074,"YldQtl-Val_2014_Lincoln_CO11D1371_2017",230867,"CO11D1371",,,"2017","1","2",2,37,"146","1","15.12","812","5393","174","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024182,"YldQtl-Val_2014_Lincoln_CO11D1371_2204",230867,"CO11D1371",,,"2204","2","1",1,44,"145","1","15.45","815","4909","175","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024312,"YldQtl-Val_2014_Lincoln_CO11D1380_2016",231451,"CO11D1380",,,"2016","1","2",2,36,"146","4","15.05","787","4533","175","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024109,"YldQtl-Val_2014_Lincoln_CO11D1380_2202",231451,"CO11D1380",,,"2202","2","1",1,42,"146","2","15.18","784","4526","175","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024283,"YldQtl-Val_2014_Lincoln_CO11D1397_2015",229471,"CO11D1397",,,"2015","1","2",2,35,"146","3","14.22","770","4694","175","76","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024337,"YldQtl-Val_2014_Lincoln_CO11D1397_2203",229471,"CO11D1397",,,"2203","2","1",1,43,"146","1","13.79","789","4869","175","78","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024011,"YldQtl-Val_2014_Lincoln_CO11D1409_2055",225036,"CO11D1409",,,"2055","1","6",6,35,"145","1","14.35","787","4983","175","98","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024168,"YldQtl-Val_2014_Lincoln_CO11D1409_2387",225036,"CO11D1409",,,"2387","2","19",19,47,"146","1","14.16","785","5555","177","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024192,"YldQtl-Val_2014_Lincoln_CO11D1414_2056",223562,"CO11D1414",,,"2056","1","6",6,36,"148","1","14.58","770","4519","179","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024195,"YldQtl-Val_2014_Lincoln_CO11D1414_2388",223562,"CO11D1414",,,"2388","2","19",19,48,"147","1","14.27","759","4452","179","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024428,"YldQtl-Val_2014_Lincoln_CO11D1418_2054",223042,"CO11D1418",,,"2054","1","6",6,34,"146","3","13.91","807","5272","175","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024102,"YldQtl-Val_2014_Lincoln_CO11D1418_2385",223042,"CO11D1418",,,"2385","2","19",19,45,"146","2","13.98","816","5071","176","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024271,"YldQtl-Val_2014_Lincoln_CO11D1431_2053",229851,"CO11D1431",,,"2053","1","6",6,33,"146","3","16.05","786","5104","178","98","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1023998,"YldQtl-Val_2014_Lincoln_CO11D1431_2386",229851,"CO11D1431",,,"2386","2","19",19,46,"146","2","14.38","792","5077","177","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024330,"YldQtl-Val_2014_Lincoln_CO11D1539_2047",227493,"CO11D1539",,,"2047","1","5",5,37,"145","1","14.22","779","4855","175","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024013,"YldQtl-Val_2014_Lincoln_CO11D1539_2377",227493,"CO11D1539",,,"2377","2","18",18,47,"146","1","14.28","771","5703","176","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024010,"YldQtl-Val_2014_Lincoln_CO11D1542_2050",236013,"CO11D1542",,,"2050","1","5",5,40,"143","1","14.56","753","4257","178","80","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024122,"YldQtl-Val_2014_Lincoln_CO11D1542_2378",236013,"CO11D1542",,,"2378","2","18",18,48,"146","2","14.21","755","5232","179","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024254,"YldQtl-Val_2014_Lincoln_CO11D1543_2049",225018,"CO11D1543",,,"2049","1","5",5,39,"146","1","15.46","783","4586","174","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024086,"YldQtl-Val_2014_Lincoln_CO11D1543_2380",225018,"CO11D1543",,,"2380","2","18",18,50,"146","1","15.37","776","5306","177","98","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024163,"YldQtl-Val_2014_Lincoln_CO11D1545_2048",225726,"CO11D1545",,,"2048","1","5",5,38,"146","3","14.36","792","4755","176","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024141,"YldQtl-Val_2014_Lincoln_CO11D1545_2379",225726,"CO11D1545",,,"2379","2","18",18,49,"146","2","13.95","775","5454","177","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024159,"YldQtl-Val_2014_Lincoln_CO11D1555W_2170",221093,"CO11D1555W",,,"2170","1","17",17,40,"148","1","15.54","818","4748","177","92","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024432,"YldQtl-Val_2014_Lincoln_CO11D1555W_2376",221093,"CO11D1555W",,,"2376","2","18",18,46,"146","1","15.5","808","4566","177","92","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024172,"YldQtl-Val_2014_Lincoln_CO11D1559_2169",230787,"CO11D1559",,,"2169","1","17",17,39,"145","2","15.94","810","4519","175","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024429,"YldQtl-Val_2014_Lincoln_CO11D1559_2375",230787,"CO11D1559",,,"2375","2","18",18,45,"145","3","16.06","798","4250","175","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024279,"YldQtl-Val_2014_Lincoln_CO11D1584_2168",237873,"CO11D1584",,,"2168","1","17",17,38,"146","2","16.31","822","4163","176","100","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024176,"YldQtl-Val_2014_Lincoln_CO11D1584_2374",237873,"CO11D1584",,,"2374","2","18",18,44,"146","2","15.97","816","4634","177","102","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024196,"YldQtl-Val_2014_Lincoln_CO11D1600W_2167",224399,"CO11D1600W",,,"2167","1","17",17,37,"149","1","14.93","797","4701","179","92","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024180,"YldQtl-Val_2014_Lincoln_CO11D1600W_2373",224399,"CO11D1600W",,,"2373","2","18",18,43,"148","1","14.8","788","5185","179","100","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024115,"YldQtl-Val_2014_Lincoln_CO11D1615_2144",239268,"CO11D1615",,,"2144","1","15",15,34,"145","3","15.58","777","4943","175","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024307,"YldQtl-Val_2014_Lincoln_CO11D1615_2305",239268,"CO11D1615",,,"2305","2","11",11,45,"146","8","15.67","733","3901","174","92","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024112,"YldQtl-Val_2014_Lincoln_CO11D1620_2146",224412,"CO11D1620",,,"2146","1","15",15,36,"149","1","14.82","761","4983","175","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024363,"YldQtl-Val_2014_Lincoln_CO11D1620_2306",224412,"CO11D1620",,,"2306","2","11",11,46,"147","4","15.37","713","3907","178","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024324,"YldQtl-Val_2014_Lincoln_CO11D1631_2145",232297,"CO11D1631",,,"2145","1","15",15,35,"146","1","15.01","759","5319","175","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024089,"YldQtl-Val_2014_Lincoln_CO11D1631_2303",232297,"CO11D1631",,,"2303","2","11",11,43,"146","4","14.83","735","4022","176","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024376,"YldQtl-Val_2014_Lincoln_CO11D1633_2143",223985,"CO11D1633",,,"2143","1","15",15,33,"149","1","15.41","739","4512","178","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024404,"YldQtl-Val_2014_Lincoln_CO11D1633_2304",223985,"CO11D1633",,,"2304","2","11",11,44,"146","4","15.06","751","3786","176","92","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024050,"YldQtl-Val_2014_Lincoln_CO11D1642_2160",239094,"CO11D1642",,,"2160","1","16",16,40,"145","1","14.7","803","4788","175","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024373,"YldQtl-Val_2014_Lincoln_CO11D1642_2228",239094,"CO11D1642",,,"2228","2","3",3,48,"146","5","15.17","778","4277","175","83","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024049,"YldQtl-Val_2014_Lincoln_CO11D1644_2157",223402,"CO11D1644",,,"2157","1","16",16,37,"145","1","15.4","815","5050","177","98","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024030,"YldQtl-Val_2014_Lincoln_CO11D1644_2229",223402,"CO11D1644",,,"2229","2","3",3,49,"146","2","15.87","806","4170","174","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024097,"YldQtl-Val_2014_Lincoln_CO11D1645_2158",230468,"CO11D1645",,,"2158","1","16",16,38,"145","1","15.39","805","4573","177","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024135,"YldQtl-Val_2014_Lincoln_CO11D1645_2227",230468,"CO11D1645",,,"2227","2","3",3,47,"146","5","15.59","794","4223","174","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024199,"YldQtl-Val_2014_Lincoln_CO11D1647_2159",224447,"CO11D1647",,,"2159","1","16",16,39,"146","1","14.96","812","5319","178","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024209,"YldQtl-Val_2014_Lincoln_CO11D1647_2230",224447,"CO11D1647",,,"2230","2","3",3,50,"146","2","14.86","796","4943","176","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024147,"YldQtl-Val_2014_Lincoln_CO11D1654_2004",219841,"CO11D1654",,,"2004","1","1",1,34,"146","3","14.85","778","4835","172","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024365,"YldQtl-Val_2014_Lincoln_CO11D1654_2327",219841,"CO11D1654",,,"2327","2","13",13,47,"146","3","14.75","777","4781","174","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024225,"YldQtl-Val_2014_Lincoln_CO11D1656_2003",234522,"CO11D1656",,,"2003","1","1",1,33,"145","3","16.62","779","3719","174","70","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024367,"YldQtl-Val_2014_Lincoln_CO11D1656_2328",234522,"CO11D1656",,,"2328","2","13",13,48,"146","5","15.86","777","4217","176","78","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024080,"YldQtl-Val_2014_Lincoln_CO11D1657_2002",219504,"CO11D1657",,,"2002","1","1",1,32,"151","3","16.19","741","4028","179","80","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024092,"YldQtl-Val_2014_Lincoln_CO11D1657_2329",219504,"CO11D1657",,,"2329","2","13",13,49,"149","3","15.95","739","4385","180","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024288,"YldQtl-Val_2014_Lincoln_CO11D1665_2001",221936,"CO11D1665",,,"2001","1","1",1,31,"143","3","15.98","790","3477","171","76","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024303,"YldQtl-Val_2014_Lincoln_CO11D1665_2330",221936,"CO11D1665",,,"2330","2","13",13,50,"143","3","15.82","785","4667","175","85","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024379,"YldQtl-Val_2014_Lincoln_CO11D1686_2021",228998,"CO11D1686",,,"2021","1","3",3,31,"147","1","15.11","764","2690","176","84","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024028,"YldQtl-Val_2014_Lincoln_CO11D1686_2208",228998,"CO11D1686",,,"2208","2","1",1,48,"146","2","15","750","4512","175","85","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024368,"YldQtl-Val_2014_Lincoln_CO11D1715_2024",229433,"CO11D1715",,,"2024","1","3",3,34,"146","2","14.17","793","4479","175","84","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024103,"YldQtl-Val_2014_Lincoln_CO11D1715_2209",229433,"CO11D1715",,,"2209","2","1",1,49,"146","2","14.21","776","4956","175","85","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024138,"YldQtl-Val_2014_Lincoln_CO11D1731_2022",238569,"CO11D1731",,,"2022","1","3",3,32,"146","2","16.59","794","3329","177","80","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024106,"YldQtl-Val_2014_Lincoln_CO11D1731_2207",238569,"CO11D1731",,,"2207","2","1",1,47,"147","3","16.95","776","3504","176","80","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024006,"YldQtl-Val_2014_Lincoln_CO11D1746_2023",231257,"CO11D1746",,,"2023","1","3",3,33,"147","1","15","787","4734","175","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024250,"YldQtl-Val_2014_Lincoln_CO11D1746_2210",231257,"CO11D1746",,,"2210","2","1",1,50,"146","1","15","763","4499","175","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024358,"YldQtl-Val_2014_Lincoln_CO11D1758W_2031",225633,"CO11D1758W",,,"2031","1","4",4,31,"146","2","15.59","796","2791","178","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024179,"YldQtl-Val_2014_Lincoln_CO11D1758W_2308",225633,"CO11D1758W",,,"2308","2","11",11,48,"148","2","15.68","779","3578","176","92","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024414,"YldQtl-Val_2014_Lincoln_CO11D1767_2034",221585,"CO11D1767",,,"2034","1","4",4,34,"149","2","14.37","746","4701","178","80","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024229,"YldQtl-Val_2014_Lincoln_CO11D1767_2310",221585,"CO11D1767",,,"2310","2","11",11,50,"146","4","14.06","757","4728","175","84","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024214,"YldQtl-Val_2014_Lincoln_CO11D1789_2033",219564,"CO11D1789",,,"2033","1","4",4,33,"148","1","15.64","738","3551","179","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024126,"YldQtl-Val_2014_Lincoln_CO11D1789_2309",219564,"CO11D1789",,,"2309","2","11",11,49,"148","1","15.06","761","3988","176","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024353,"YldQtl-Val_2014_Lincoln_CO11D1799_2032",234989,"CO11D1799",,,"2032","1","4",4,32,"146","1","14.64","760","4512","179","85","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024281,"YldQtl-Val_2014_Lincoln_CO11D1799_2307",234989,"CO11D1799",,,"2307","2","11",11,47,"148","1","14.24","765","4425","176","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024197,"YldQtl-Val_2014_Lincoln_CT103_2331",234407,"CT103",,,"2331","2","14",14,41,"146","1","14.28","771","4882","177","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024273,"YldQtl-Val_2014_Lincoln_CT103_3103",234407,"CT103",,,"3103","1","21",21,33,"146","1","16.07","814","4190","173","96","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024118,"YldQtl-Val_2014_Lincoln_CT110_2346",220819,"CT110",,,"2346","2","15",15,46,"152","3","16.44","718","3490","181","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024433,"YldQtl-Val_2014_Lincoln_CT110_3118",220819,"CT110",,,"3118","1","22",22,38,"152","1","16.97","716","2986","182","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024327,"YldQtl-Val_2014_Lincoln_CT111_2343",231827,"CT111",,,"2343","2","15",15,43,"146","1","15.15","769","4210","175","84","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024093,"YldQtl-Val_2014_Lincoln_CT111_3112",231827,"CT111",,,"3112","1","22",22,32,"146","1","14.73","776","4089","178","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024152,"YldQtl-Val_2014_Lincoln_CT112_2341",232012,"CT112",,,"2341","2","15",15,41,"148","5","14.66","767","3147","178","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024150,"YldQtl-Val_2014_Lincoln_CT112_3110",232012,"CT112",,,"3110","1","21",21,40,"147","7","14.48","761","2878","179","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024244,"YldQtl-Val_2014_Lincoln_CT115_2350",238109,"CT115",,,"2350","2","15",15,50,"148","3","14.3","763","4257","178","89","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024371,"YldQtl-Val_2014_Lincoln_CT115_3119",238109,"CT115",,,"3119","1","22",22,39,"146","1","14.2","780","4075","178","92","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024421,"YldQtl-Val_2014_Lincoln_CT125_2332",227080,"CT125",,,"2332","2","14",14,42,"147","1","15.1","773","3847","179","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024416,"YldQtl-Val_2014_Lincoln_CT125_3117",227080,"CT125",,,"3117","1","22",22,37,"151","2","15.13","759","3342","182","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024299,"YldQtl-Val_2014_Lincoln_CT135_2334",224231,"CT135",,,"2334","2","14",14,44,"147","1","14.66","780","4008","180","80","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024021,"YldQtl-Val_2014_Lincoln_CT135_3106",224231,"CT135",,,"3106","1","21",21,36,"148","1",,"782","4109","180","74","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024039,"YldQtl-Val_2014_Lincoln_CT154_2335",232592,"CT154",,,"2335","2","14",14,45,"149","2","16.57","737","3174","178","78","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024075,"YldQtl-Val_2014_Lincoln_CT154_3104",232592,"CT154",,,"3104","1","21",21,34,"149","1","16.23","737","3188","179","74","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024333,"YldQtl-Val_2014_Lincoln_CT163_2344",228033,"CT163",,,"2344","2","15",15,44,"148","1","15.67","730","3793","177","85","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024215,"YldQtl-Val_2014_Lincoln_CT163_3102",228033,"CT163",,,"3102","1","21",21,32,"149","4","16.01","681","2293","180","80","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024165,"YldQtl-Val_2014_Lincoln_CT185_2338",234652,"CT185",,,"2338","2","14",14,48,"146","2","14.67","792","4250","179","83","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024002,"YldQtl-Val_2014_Lincoln_CT185_3101",234652,"CT185",,,"3101","1","21",21,31,"146","3","14.82","792","3786","180","96","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024104,"YldQtl-Val_2014_Lincoln_CT194_2339",231680,"CT194",,,"2339","2","14",14,49,"149","2","15.13","743","4499","180","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024394,"YldQtl-Val_2014_Lincoln_CT194_3109",231680,"CT194",,,"3109","1","21",21,39,"152","3","15.65","737","4539","179","84","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024222,"YldQtl-Val_2014_Lincoln_CT199_2337",238198,"CT199",,,"2337","2","14",14,47,"146","2","15.37",,"4082","178","87","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024239,"YldQtl-Val_2014_Lincoln_CT199_3114",238198,"CT199",,,"3114","1","22",22,34,"146","1","14.79","781","4048","175","84","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024031,"YldQtl-Val_2014_Lincoln_CT213_2349",237444,"CT213",,,"2349","2","15",15,49,"147","2","15.51","769","4788","179","89","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024253,"YldQtl-Val_2014_Lincoln_CT213_3108",237444,"CT213",,,"3108","1","21",21,38,"149","1","15.25","780","4761","179","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024407,"YldQtl-Val_2014_Lincoln_CT224_2347",221371,"CT224",,,"2347","2","15",15,47,"146","2","16.36","766","3800","180","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024034,"YldQtl-Val_2014_Lincoln_CT224_3105",221371,"CT224",,,"3105","1","21",21,35,"148","2","16.83","773","3268","178","84","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024190,"YldQtl-Val_2014_Lincoln_CT237_2336",225062,"CT237",,,"2336","2","14",14,46,"149","1","16.38","758","3712","180","78","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024114,"YldQtl-Val_2014_Lincoln_CT237_3120",225062,"CT237",,,"3120","1","22",22,40,"149","1","16.42","766","3961","180","76","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024380,"YldQtl-Val_2014_Lincoln_CT30_2333",235455,"CT30",,,"2333","2","14",14,43,"147","2","15.54","774","3396","175","78","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024015,"YldQtl-Val_2014_Lincoln_CT30_3115",235455,"CT30",,,"3115","1","22",22,35,"146","1","15.94","785","2730","175","74","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024405,"YldQtl-Val_2014_Lincoln_CT38_2345",220447,"CT38",,,"2345","2","15",15,45,"148","1","15.05","750","4136","177","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024311,"YldQtl-Val_2014_Lincoln_CT38_3113",220447,"CT38",,,"3113","1","22",22,33,"146","1","15.35","805","4082","177","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024073,"YldQtl-Val_2014_Lincoln_CT64_2342",224649,"CT64",,,"2342","2","15",15,42,"147","4","15.63","780","4405","175","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024223,"YldQtl-Val_2014_Lincoln_CT64_3107",224649,"CT64",,,"3107","1","21",21,37,"148","4","15.86","786","4391","176","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024237,"YldQtl-Val_2014_Lincoln_CT69_2348",219786,"CT69",,,"2348","2","15",15,48,"145","1","14.95","794","4351","177","100","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024130,"YldQtl-Val_2014_Lincoln_CT69_3116",219786,"CT69",,,"3116","1","22",22,36,"146","1","15.1","802","3974","177","96","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024048,"YldQtl-Val_2014_Lincoln_CT95_2340",227966,"CT95",,,"2340","2","14",14,50,"147","3","13.9","792","4365","176","81","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024261,"YldQtl-Val_2014_Lincoln_CT95_3111",227966,"CT95",,,"3111","1","22",22,31,"146","1","14.09","798","4210","178","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024213,"YldQtl-Val_2014_Lincoln_GOODSYN12_2165",235541,"GOODSYN12",,,"2165","1","17",17,35,"144","3","16.73","810","4687","174","104","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024038,"YldQtl-Val_2014_Lincoln_GOODSYN12_2224",235541,"GOODSYN12",,,"2224","2","3",3,44,"146","2","17","797","4176","174","108","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024173,"YldQtl-Val_2014_Lincoln_GOODSYN17_2166",221839,"GOODSYN17",,,"2166","1","17",17,36,"149","2","16.35","794","4580","176","114","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024249,"YldQtl-Val_2014_Lincoln_GOODSYN17_2223",221839,"GOODSYN17",,,"2223","2","3",3,43,"147","1","16.86","781","4102","174","115","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024047,"YldQtl-Val_2014_Lincoln_GOODSYN23_2005",227490,"GOODSYN23",,,"2005","1","1",1,35,"146","1","17.22","780","4613","175","100","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024212,"YldQtl-Val_2014_Lincoln_GOODSYN23_2219",227490,"GOODSYN23",,,"2219","2","2",2,49,"146","1","17.11","784","4136","172","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024012,"YldQtl-Val_2014_Lincoln_GOODSYN28_2006",229354,"GOODSYN28",,,"2006","1","1",1,36,"149","2","15.48","803","3948","175","96","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024024,"YldQtl-Val_2014_Lincoln_GOODSYN28_2220",229354,"GOODSYN28",,,"2220","2","2",2,50,"146","1","15.6","775","4721","174","92","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024174,"YldQtl-Val_2014_Lincoln_GOODSYN35_2156",227740,"GOODSYN35",,,"2156","1","16",16,36,"147","2","15.55","793","5172","178","107","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024241,"YldQtl-Val_2014_Lincoln_GOODSYN35_2221",227740,"GOODSYN35",,,"2221","2","3",3,41,"146","2","15.8","785","4506","176","98","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024420,"YldQtl-Val_2014_Lincoln_GOODSYN37_2155",224599,"GOODSYN37",,,"2155","1","16",16,35,"149","1","16.57","771","3598","180","110","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024088,"YldQtl-Val_2014_Lincoln_GOODSYN37_2222",224599,"GOODSYN37",,,"2222","2","3",3,42,"148","2","16.94","768","3430","179","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024101,"YldQtl-Val_2014_Lincoln_GOODSYN43_2069",233878,"GOODSYN43",,,"2069","1","7",7,39,"146","3","16.05","788","4452","176","110","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024277,"YldQtl-Val_2014_Lincoln_GOODSYN43_2359",233878,"GOODSYN43",,,"2359","2","16",16,49,"146","2","15.58","794","4620","175","106","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024125,"YldQtl-Val_2014_Lincoln_GOODSYN44_2070",228841,"GOODSYN44",,,"2070","1","7",7,40,"146","1","16.87","794","4230","176","112","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024328,"YldQtl-Val_2014_Lincoln_GOODSYN44_2360",228841,"GOODSYN44",,,"2360","2","16",16,50,"146","2","16.4","792","4580","176","112","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024144,"YldQtl-Val_2014_Lincoln_GOODSYN51_2174",225985,"GOODSYN51",,,"2174","1","18",18,34,"147","1","15.61","796","4950","179","104","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024027,"YldQtl-Val_2014_Lincoln_GOODSYN51_2325",225985,"GOODSYN51",,,"2325","2","13",13,45,"146","2","15.31","789","4129","180","103","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024424,"YldQtl-Val_2014_Lincoln_GOODSYN5_2161",239581,"GOODSYN5",,,"2161","1","17",17,31,"149","2","15.06","800","3282","175","116","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024411,"YldQtl-Val_2014_Lincoln_GOODSYN5_2311",239581,"GOODSYN5",,,"2311","2","12",12,41,"148","2","15.24","776","4802","175","118","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024045,"YldQtl-Val_2014_Lincoln_GOODSYN58_2173",220368,"GOODSYN58",,,"2173","1","18",18,33,"148","1","14.71","813","5454","178","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024427,"YldQtl-Val_2014_Lincoln_GOODSYN58_2326",220368,"GOODSYN58",,,"2326","2","13",13,46,"146","2","16.31","783","3927","178","110","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024340,"YldQtl-Val_2014_Lincoln_GOODSYN61_2152",237009,"GOODSYN61",,,"2152","1","16",16,32,"142","2","15.26","785","4250","175","104","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024282,"YldQtl-Val_2014_Lincoln_GOODSYN61_2217",237009,"GOODSYN61",,,"2217","2","2",2,47,"142","2","15.78","778","3598","172","95","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024355,"YldQtl-Val_2014_Lincoln_GOODSYN62_2151",229376,"GOODSYN62",,,"2151","1","16",16,31,"142","2","15.37","794","3342","175","102","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024294,"YldQtl-Val_2014_Lincoln_GOODSYN62_2218",229376,"GOODSYN62",,,"2218","2","2",2,48,"142","1","15.69","770","4143","172","95","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024129,"YldQtl-Val_2014_Lincoln_GOODSYN72_2066",234530,"GOODSYN72",,,"2066","1","7",7,36,"147","1","16.24","786","4748","175","106","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024143,"YldQtl-Val_2014_Lincoln_GOODSYN72_2301",234530,"GOODSYN72",,,"2301","2","11",11,41,"146","2","15.68","787","4573","175","118","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024360,"YldQtl-Val_2014_Lincoln_GOODSYN80_2065",228604,"GOODSYN80",,,"2065","1","7",7,35,"147","1","15.86","795","4613","175","116","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024099,"YldQtl-Val_2014_Lincoln_GOODSYN80_2302",228604,"GOODSYN80",,,"2302","2","11",11,42,"146","2","15.49","790","4479","176","120","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024409,"YldQtl-Val_2014_Lincoln_GOODSYN8_2162",232624,"GOODSYN8",,,"2162","1","17",17,32,"147","1","15.27","787","4714","175","120","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024064,"YldQtl-Val_2014_Lincoln_GOODSYN82_2020",230455,"GOODSYN82",,,"2020","1","2",2,40,"143","1","16.58","801","4122","172","102","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024044,"YldQtl-Val_2014_Lincoln_GOODSYN82_2322",230455,"GOODSYN82",,,"2322","2","13",13,42,"145","3","16.41","802","4882","175","102","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024084,"YldQtl-Val_2014_Lincoln_GOODSYN8_2312",232624,"GOODSYN8",,,"2312","2","12",12,42,"147","2","15.58","781","4802","178","118","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024210,"YldQtl-Val_2014_Lincoln_GOODSYN88_2019",230827,"GOODSYN88",,,"2019","1","2",2,39,"145","1","15.27","805","4311","174","105","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024124,"YldQtl-Val_2014_Lincoln_GOODSYN88_2321",230827,"GOODSYN88",,,"2321","2","13",13,41,"146","2","15.11","800","4862","176","110","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024317,"YldQtl-Val_2014_Lincoln_HW_124_2124",219201,"HW_124",,,"2124","1","13",13,34,"149","1","15.01","770","5071","179","96","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024230,"YldQtl-Val_2014_Lincoln_HW_124_2252",219201,"HW_124",,,"2252","2","6",6,42,"148","2","15.11","751","4990","177","92","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024309,"YldQtl-Val_2014_Lincoln_HW_132_2126",228435,"HW_132",,,"2126","1","13",13,36,"149","1","16.36","717","4022","179","96","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024194,"YldQtl-Val_2014_Lincoln_HW_132_2260",228435,"HW_132",,,"2260","2","6",6,50,"148","2","16.28","701","4331","178","93","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024284,"YldQtl-Val_2014_Lincoln_HW_133_2140",221305,"HW_133",,,"2140","1","14",14,40,"150","2","15.9","729","4203","180","84","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024217,"YldQtl-Val_2014_Lincoln_HW_133_2259",221305,"HW_133",,,"2259","2","6",6,49,"150","3","16.43","688","4048","178","83","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024007,"YldQtl-Val_2014_Lincoln_HW_141_2138",228863,"HW_141",,,"2138","1","14",14,38,"148","1","15.61","763","4829","178","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024137,"YldQtl-Val_2014_Lincoln_HW_141_2261",228863,"HW_141",,,"2261","2","7",7,41,"146","2","15.75","731","4243","178","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024296,"YldQtl-Val_2014_Lincoln_HW_155_2122",225486,"HW_155",,,"2122","1","13",13,32,"149","1","15.9","760","5010","179","103","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024392,"YldQtl-Val_2014_Lincoln_HW_155_2269",225486,"HW_155",,,"2269","2","7",7,49,"149","3","16.92","701","3658","180","100","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024070,"YldQtl-Val_2014_Lincoln_HW_174_2132",232480,"HW_174",,,"2132","1","14",14,32,"146","2","15.58","780","4714","177","78","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024151,"YldQtl-Val_2014_Lincoln_HW_174_2253",232480,"HW_174",,,"2253","2","6",6,43,"147","2","15.72","773","4472","178","83","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024203,"YldQtl-Val_2014_Lincoln_HW_175_2128",220903,"HW_175",,,"2128","1","13",13,38,"149","1","15.53","755","4909","179","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024350,"YldQtl-Val_2014_Lincoln_HW_175_2266",220903,"HW_175",,,"2266","2","7",7,46,"148","1","16.16","721","3894","179","89","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024186,"YldQtl-Val_2014_Lincoln_HW_182_2125",235092,"HW_182",,,"2125","1","13",13,35,"149","1","15.68","738","4741","179","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024091,"YldQtl-Val_2014_Lincoln_HW_182_2268",235092,"HW_182",,,"2268","2","7",7,48,"148","1","15.62","729","4755","176","93","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024000,"YldQtl-Val_2014_Lincoln_HW_237_2137",231864,"HW_237",,,"2137","1","14",14,37,"146","1","14.82","767","4708","176","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024258,"YldQtl-Val_2014_Lincoln_HW_237_2256",231864,"HW_237",,,"2256","2","6",6,46,"148","2","14.73","745","4970","178","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024184,"YldQtl-Val_2014_Lincoln_HW_240_2136",238796,"HW_240",,,"2136","1","14",14,36,"147","1","16.05","784","4539","176","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024260,"YldQtl-Val_2014_Lincoln_HW_240_2263",238796,"HW_240",,,"2263","2","7",7,43,"148","3","16.2","763","4876","178","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024422,"YldQtl-Val_2014_Lincoln_HW_246_2127",227686,"HW_246",,,"2127","1","13",13,37,"149","1","15.84","746","4270","179","98","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024020,"YldQtl-Val_2014_Lincoln_HW_246_2262",227686,"HW_246",,,"2262","2","7",7,42,"147","1","15.45","739","4734","178","98","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024382,"YldQtl-Val_2014_Lincoln_HW_256_2129",237462,"HW_256",,,"2129","1","13",13,39,"149","1","15.09","768","5165","178","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024319,"YldQtl-Val_2014_Lincoln_HW_256_2270",237462,"HW_256",,,"2270","2","7",7,50,"149","1","15.47","711","4459","179","84","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024286,"YldQtl-Val_2014_Lincoln_HW_261_2121",235511,"HW_261",,,"2121","1","13",13,31,"148","1","15.54","762","3571","179","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024204,"YldQtl-Val_2014_Lincoln_HW_261_2254",235511,"HW_261",,,"2254","2","6",6,44,"148","2","15.83","725","4526","178","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1023996,"YldQtl-Val_2014_Lincoln_HW_266_2139",222833,"HW_266",,,"2139","1","14",14,39,"149","2","15.15","767","5219","178","84","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024310,"YldQtl-Val_2014_Lincoln_HW_266_2257",222833,"HW_266",,,"2257","2","6",6,47,"148","3","15.34","737","4412","178","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024155,"YldQtl-Val_2014_Lincoln_HW_267_2130",220821,"HW_267",,,"2130","1","13",13,40,"149","2","16.12","716","4096","179","100","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024398,"YldQtl-Val_2014_Lincoln_HW_267_2267",220821,"HW_267",,,"2267","2","7",7,47,"148","2","16.45","692","4075","178","98","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024056,"YldQtl-Val_2014_Lincoln_HW_29_2134",237622,"HW_29",,,"2134","1","14",14,34,"152","1","16.65","741","4042","180","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024189,"YldQtl-Val_2014_Lincoln_HW_29_2265",237622,"HW_29",,,"2265","2","7",7,45,"152","2","17.44","702","3349","181","100","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024267,"YldQtl-Val_2014_Lincoln_HW_37_2133",227264,"HW_37",,,"2133","1","14",14,33,"145","2","15.07","807","5104","177","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024136,"YldQtl-Val_2014_Lincoln_HW_37_2258",227264,"HW_37",,,"2258","2","6",6,48,"148","3","15.14","731","4136","178","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024160,"YldQtl-Val_2014_Lincoln_HW_44_2135",224962,"HW_44",,,"2135","1","14",14,35,"147","1","14.73","780","4802","178","84","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024078,"YldQtl-Val_2014_Lincoln_HW_44_2255",224962,"HW_44",,,"2255","2","6",6,45,"147","1","15.23","778","5353","178","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024247,"YldQtl-Val_2014_Lincoln_HW_83_2131",232435,"HW_83",,,"2131","1","14",14,31,"150","1","17.51","742","1930","178","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024170,"YldQtl-Val_2014_Lincoln_HW_83_2264",232435,"HW_83",,,"2264","2","7",7,44,"150","2","18.22","682","2925","179","102","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024289,"YldQtl-Val_2014_Lincoln_HW_98_2123",230240,"HW_98",,,"2123","1","13",13,33,"144","1","15.03","788","5515","178","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024105,"YldQtl-Val_2014_Lincoln_HW_98_2251",230240,"HW_98",,,"2251","2","6",6,41,"147","1","14.63","770","5299","177","85","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024415,"YldQtl-Val_2014_Lincoln_NE06545_2062",220023,"NE06545",,,"2062","1","7",7,32,"146","1","15.04","753","4997","174","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024406,"YldQtl-Val_2014_Lincoln_NE06545_2366",220023,"NE06545",,,"2366","2","17",17,46,"146","1","14.83","748","5138","176","89","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024266,"YldQtl-Val_2014_Lincoln_NE12568_2163",231647,"NE12568",,,"2163","1","17",17,33,"143","2","14.35","805","4506","174","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024304,"YldQtl-Val_2014_Lincoln_NE12568_2396",231647,"NE12568",,,"2396","2","20",20,46,"146","1","15.22","750","3457","179","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024329,"YldQtl-Val_2014_Lincoln_NE12571_2164",227330,"NE12571",,,"2164","1","17",17,34,"146","1","15.24","800","5172","175","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024207,"YldQtl-Val_2014_Lincoln_NE12571_2395",227330,"NE12571",,,"2395","2","20",20,45,"146","1","15.04","792","5508","178","95","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024123,"YldQtl-Val_2014_Lincoln_NE13407_2068",233259,"NE13407",,,"2068","1","7",7,38,"145","1","15.66","786","4553","175","76","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024224,"YldQtl-Val_2014_Lincoln_NE13407_2314",233259,"NE13407",,,"2314","2","12",12,44,"146","2","15.58","782","4627","175","85","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024408,"YldQtl-Val_2014_Lincoln_NE13412_2195",238885,"NE13412",,,"2195","1","20",20,35,"146","2","15.29","810","4378","175","96","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024100,"YldQtl-Val_2014_Lincoln_NE13412_2241",238885,"NE13412",,,"2241","2","5",5,41,"145","2","15.24","798","4089","176","91","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024256,"YldQtl-Val_2014_Lincoln_NE13417_2067",237115,"NE13417",,,"2067","1","7",7,37,"146","1","17.91","795","3396","176","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024343,"YldQtl-Val_2014_Lincoln_NE13417_2313",237115,"NE13417",,,"2313","2","12",12,43,"147","1","18","779","3342","177","94","95"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024008,"YldQtl-Val_2014_Lincoln_NE13441_2180",236104,"NE13441",,,"2180","1","18",18,40,"148","1","15.25","784","4613","176","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024062,"YldQtl-Val_2014_Lincoln_NE13441_2226",236104,"NE13441",,,"2226","2","3",3,46,"146","3","15.54","759","4862","174","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024232,"YldQtl-Val_2014_Lincoln_NE13449_2008",226042,"NE13449",,,"2008","1","1",1,38,"146","2","15.71","759","4660","175","74","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024079,"YldQtl-Val_2014_Lincoln_NE13449_2391",226042,"NE13449",,,"2391","2","20",20,41,"146","2","15.4","757","5528","176","85","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024318,"YldQtl-Val_2014_Lincoln_NE13470_2189",239454,"NE13470",,,"2189","1","19",19,39,"148","1","14.54","766","5246","176","80","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024201,"YldQtl-Val_2014_Lincoln_NE13470_2318",239454,"NE13470",,,"2318","2","12",12,48,"146","1","14.88","756","5319","175","87","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024026,"YldQtl-Val_2014_Lincoln_NE13498_2186",225220,"NE13498",,,"2186","1","19",19,36,"146","1","15.37","816","4486","178","98","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024060,"YldQtl-Val_2014_Lincoln_NE13498_2273",225220,"NE13498",,,"2273","2","8",8,43,"146","2","15.36","798","5050","179","95","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024077,"YldQtl-Val_2014_Lincoln_NE13510_2190",221706,"NE13510",,,"2190","1","19",19,40,"146","2","15.11","782","5064","177","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024146,"YldQtl-Val_2014_Lincoln_NE13510_2317",221706,"NE13510",,,"2317","2","12",12,47,"146","3","15.19","772","5030","175","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024063,"YldQtl-Val_2014_Lincoln_NE13522_2177",228158,"NE13522",,,"2177","1","18",18,37,"147","1","14.89","778","5319","180","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024128,"YldQtl-Val_2014_Lincoln_NE13522_2212",228158,"NE13522",,,"2212","2","2",2,42,"148","1","15.13","789","5010","175","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024417,"YldQtl-Val_2014_Lincoln_NE13556_2083",229148,"NE13556",,,"2083","1","9",9,33,"149","1","15.69","795","5246","181","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024083,"YldQtl-Val_2014_Lincoln_NE13556_2215",229148,"NE13556",,,"2215","2","2",2,45,"148","1","15.9","776","4015","179","102","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024187,"YldQtl-Val_2014_Lincoln_NE13571_2185",238145,"NE13571",,,"2185","1","19",19,35,"149","1","16.12","769","4748","179","96","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024153,"YldQtl-Val_2014_Lincoln_NE13571_2274",238145,"NE13571",,,"2274","2","8",8,44,"148","2","16.74","753","4452","178","103","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024306,"YldQtl-Val_2014_Lincoln_NE13589_2029",221368,"NE13589",,,"2029","1","3",3,39,"149","1","15.71","788","5017","178","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024117,"YldQtl-Val_2014_Lincoln_NE13589_2249",221368,"NE13589",,,"2249","2","5",5,49,"148","1","14.67","780","4660","178","100","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024238,"YldQtl-Val_2014_Lincoln_NE13593_2153",220138,"NE13593",,,"2153","1","16",16,33,"143","2","14.37","787","4963","178","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024348,"YldQtl-Val_2014_Lincoln_NE13593_2353",220138,"NE13593",,,"2353","2","16",16,43,"146","1","16.27","780","5057","178","100","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024400,"YldQtl-Val_2014_Lincoln_NE13607_2176",221914,"NE13607",,,"2176","1","18",18,36,"148","1","15.43","767","4929","179","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024004,"YldQtl-Val_2014_Lincoln_NE13607_2382",221914,"NE13607",,,"2382","2","19",19,42,"151","2","15.29","735","4647","179","96","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024111,"YldQtl-Val_2014_Lincoln_NE13625_2058",221799,"NE13625",,,"2058","1","6",6,38,"145","1","14.69","787","5353","178","96","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024285,"YldQtl-Val_2014_Lincoln_NE13625_2280",221799,"NE13625",,,"2280","2","8",8,50,"146","3","14.59","784","5232","179","98","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024251,"YldQtl-Val_2014_Lincoln_NE13627_2084",232175,"NE13627",,,"2084","1","9",9,34,"149","1","16.53","761","4788","177","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024385,"YldQtl-Val_2014_Lincoln_NE13627_2216",232175,"NE13627",,,"2216","2","2",2,46,"147","1","16.92","753","4331","177","85","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024426,"YldQtl-Val_2014_Lincoln_NE13628_2007",231678,"NE13628",,,"2007","1","1",1,37,"147","2","16.28","781","4096","175","80","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024347,"YldQtl-Val_2014_Lincoln_NE13628_2392",231678,"NE13628",,,"2392","2","20",20,42,"149","1","15.55","784","5151","179","95","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024300,"YldQtl-Val_2014_Lincoln_NE13630_2196",229793,"NE13630",,,"2196","1","20",20,36,"149","1","14.58","739","5380","179","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024014,"YldQtl-Val_2014_Lincoln_NE13630_2242",229793,"NE13630",,,"2242","2","5",5,42,"148","2","14.2","733","4977","178","85","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024323,"YldQtl-Val_2014_Lincoln_NE13637_2175",236019,"NE13637",,,"2175","1","18",18,35,"149","1","14.87","752","4694","178","92","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024425,"YldQtl-Val_2014_Lincoln_NE13637_2381",236019,"NE13637",,,"2381","2","19",19,41,"149","2","14.47","749","5319","178","95","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024263,"YldQtl-Val_2014_Lincoln_NE13638_2179",229752,"NE13638",,,"2179","1","18",18,39,"150","1","15.65","745","4196","177","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024264,"YldQtl-Val_2014_Lincoln_NE13638_2225",229752,"NE13638",,,"2225","2","3",3,45,"148","2","16.28","715","3658","175","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024127,"YldQtl-Val_2014_Lincoln_NE13639_2178",229785,"NE13639",,,"2178","1","18",18,38,"150","1","14.81","786","5757","179","101","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024162,"YldQtl-Val_2014_Lincoln_NE13639_2211",229785,"NE13639",,,"2211","2","2",2,41,"148","2","14.67","770","4970","175","98","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024344,"YldQtl-Val_2014_Lincoln_NE13655_2059",238391,"NE13655",,,"2059","1","6",6,39,"152","5","19.07","675","1574","181","108","80"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024218,"YldQtl-Val_2014_Lincoln_NE13655_2290",238391,"NE13655",,,"2290","2","9",9,50,"152","4","18.45","705","1917","179","105","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024227,"YldQtl-Val_2014_Lincoln_NE13660_2060",235699,"NE13660",,,"2060","1","6",6,40,"149","3","16.51","720","3504","180","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024183,"YldQtl-Val_2014_Lincoln_NE13660_2289",235699,"NE13660",,,"2289","2","9",9,49,"148","4","16.31","725","3376","180","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024042,"YldQtl-Val_2014_Lincoln_NE13680_2154",226726,"NE13680",,,"2154","1","16",16,34,"149","2","15.7","790","5172","179","114","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024240,"YldQtl-Val_2014_Lincoln_NE13680_2354",226726,"NE13680",,,"2354","2","16",16,44,"149","1","15.84","783","5044","178","105","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1023997,"YldQtl-Val_2014_Lincoln_NE13695_2057",234507,"NE13695",,,"2057","1","6",6,37,"148","2","16.24","775","4129","179","110","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024370,"YldQtl-Val_2014_Lincoln_NE13695_2279",234507,"NE13695",,,"2279","2","8",8,49,"148","4","16.3","747","4479","179","112","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024305,"YldQtl-Val_2014_Lincoln_NE13697_2052",227403,"NE13697",,,"2052","1","6",6,32,"150","1","15.5","729","4391","180","98","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024058,"YldQtl-Val_2014_Lincoln_NE13697_2248",227403,"NE13697",,,"2248","2","5",5,48,"151","1","15.4","760","4022","180","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024388,"YldQtl-Val_2014_Lincoln_NE13698_2051",224360,"NE13698",,,"2051","1","6",6,31,"149","2","15.4","778","3544","178","92","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024181,"YldQtl-Val_2014_Lincoln_NE13698_2247",224360,"NE13698",,,"2247","2","5",5,47,"148","2","15.14","765","4788","179","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024321,"YldQtl-Val_2014_Lincoln_NE13700_2030",229258,"NE13700",,,"2030","1","3",3,40,"150","1","16.23","773","4284","180","98","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024302,"YldQtl-Val_2014_Lincoln_NE13700_2250",229258,"NE13700",,,"2250","2","5",5,50,"148","1","15.38","764","4365","181","102","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024236,"YldQtl-Val_2014_Lincoln_NH13415_2041",220291,"NH13415",,,"2041","1","5",5,31,"145","4","15.69","802","2764","177","80","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024017,"YldQtl-Val_2014_Lincoln_NH13415_2205",220291,"NH13415",,,"2205","2","1",1,45,"145","1","15.59","795","4479","175","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024314,"YldQtl-Val_2014_Lincoln_NH13606_2042",230189,"NH13606",,,"2042","1","5",5,32,"148","1","15.16","758","3954","180","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024003,"YldQtl-Val_2014_Lincoln_NH13606_2206",230189,"NH13606",,,"2206","2","1",1,46,"148","1","15.18","749","3443","179","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024098,"YldQtl-Val_2014_Lincoln_NH13692_2191",229500,"NH13692",,,"2191","1","20",20,31,"151","5","15.99","723","3161","181","110","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024290,"YldQtl-Val_2014_Lincoln_NH13692_2371",229500,"NH13692",,,"2371","2","18",18,41,"149","2","15.89","741","3591","181","110","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024242,"YldQtl-Val_2014_Lincoln_NH13693_2192",236094,"NH13693",,,"2192","1","20",20,32,"151","4","15.54","721","3867","181","103","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024276,"YldQtl-Val_2014_Lincoln_NH13693_2372",236094,"NH13693",,,"2372","2","18",18,42,"149","2","15.3","730","4297","181","108","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024301,"YldQtl-Val_2014_Lincoln_NW13455_2181",236899,"NW13455",,,"2181","1","19",19,31,"147","2","14.61","782","4929","176","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024037,"YldQtl-Val_2014_Lincoln_NW13455_2362",236899,"NW13455",,,"2362","2","17",17,42,"146","1","14.97","758","4741","178","95","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024029,"YldQtl-Val_2014_Lincoln_NW13457_2141",229414,"NW13457",,,"2141","1","15",15,31,"146","1","14.98","803","4210","178","92","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024377,"YldQtl-Val_2014_Lincoln_NW13457_2324",229414,"NW13457",,,"2324","2","13",13,44,"146","2","15.12","774","4425","180","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024332,"YldQtl-Val_2014_Lincoln_NW13499_2046",224032,"NW13499",,,"2046","1","5",5,36,"146","1","15.34","793","4479","174","102","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024386,"YldQtl-Val_2014_Lincoln_NW13499_2271",224032,"NW13499",,,"2271","2","8",8,41,"146","2","14.65","801","5178","179","102","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024059,"YldQtl-Val_2014_Lincoln_NW13502_2184",228689,"NW13502",,,"2184","1","19",19,34,"146","1","15.4","792","5151","179","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024403,"YldQtl-Val_2014_Lincoln_NW13502_2214",228689,"NW13502",,,"2214","2","2",2,44,"148","1","15.45","787","4950","177","93","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024396,"YldQtl-Val_2014_Lincoln_NW13516_2089",238891,"NW13516",,,"2089","1","9",9,39,"148","1","15.4","762","4687","178","80","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024219,"YldQtl-Val_2014_Lincoln_NW13516_2393",238891,"NW13516",,,"2393","2","20",20,43,"148","1","14.78","761","5441","178","84","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024081,"YldQtl-Val_2014_Lincoln_NW13526_2182",223421,"NW13526",,,"2182","1","19",19,32,"146","2","15.6","778","5030","177","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024292,"YldQtl-Val_2014_Lincoln_NW13526_2361",223421,"NW13526",,,"2361","2","17",17,41,"149","2","15.42","777","4647","175","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024246,"YldQtl-Val_2014_Lincoln_NW13536_2193",225341,"NW13536",,,"2193","1","20",20,33,"151","1","15.36","751","4344","181","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024072,"YldQtl-Val_2014_Lincoln_NW13536_2367",225341,"NW13536",,,"2367","2","17",17,47,"148","1","15.72","779","4607","177","77","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024188,"YldQtl-Val_2014_Lincoln_NW13559_2172",225528,"NW13559",,,"2172","1","18",18,32,"147","2","15.37","758","4950","177","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024177,"YldQtl-Val_2014_Lincoln_NW13559_2315",225528,"NW13559",,,"2315","2","12",12,45,"146","2","15.76","727","4620","178","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024419,"YldQtl-Val_2014_Lincoln_NW13563_2090",229375,"NW13563",,,"2090","1","9",9,40,"148","2","15.11","760","4405","179","80","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024280,"YldQtl-Val_2014_Lincoln_NW13563_2394",229375,"NW13563",,,"2394","2","20",20,44,"148","1","14.58","763","5037","179","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024185,"YldQtl-Val_2014_Lincoln_NW13572_2045",230650,"NW13572",,,"2045","1","5",5,35,"149","1","15.86","789","4654","178","100","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024211,"YldQtl-Val_2014_Lincoln_NW13572_2272",230650,"NW13572",,,"2272","2","8",8,42,"148","2","15.83","772","4882","180","105","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024268,"YldQtl-Val_2014_Lincoln_NW13575_2183",220017,"NW13575",,,"2183","1","19",19,33,"149","2","15.68","785","4694","179","99","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024164,"YldQtl-Val_2014_Lincoln_NW13575_2213",220017,"NW13575",,,"2213","2","2",2,43,"147","1","15.9","785","4667","177","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024383,"YldQtl-Val_2014_Lincoln_NW13596_2171",231002,"NW13596",,,"2171","1","18",18,31,"148","3","15.93","767","4075","178","96","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024052,"YldQtl-Val_2014_Lincoln_NW13596_2316",231002,"NW13596",,,"2316","2","12",12,46,"146","1","15.82","752","5360","180","99","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024200,"YldQtl-Val_2014_Lincoln_NW13615_2142",230105,"NW13615",,,"2142","1","15",15,32,"150","1","15.32","747","4714","180","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024171,"YldQtl-Val_2014_Lincoln_NW13615_2323",230105,"NW13615",,,"2323","2","13",13,43,"149","1","15.16","735","4365","180","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024096,"YldQtl-Val_2014_Lincoln_NW13652_2082",233459,"NW13652",,,"2082","1","9",9,32,"149","1","15.9","785","4694","180","85","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024120,"YldQtl-Val_2014_Lincoln_NW13652_2384",233459,"NW13652",,,"2384","2","19",19,44,"148","2","15.38","778","5145","178","100","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024157,"YldQtl-Val_2014_Lincoln_NW13666_2194",230006,"NW13666",,,"2194","1","20",20,34,"152","3","16.32","722","3369","181","76","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024085,"YldQtl-Val_2014_Lincoln_NW13666_2368",230006,"NW13666",,,"2368","2","17",17,48,"150","1","16.04","743","3652","181","72","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024391,"YldQtl-Val_2014_Lincoln_NW13669_2081",238003,"NW13669",,,"2081","1","9",9,31,"149","2","15.91","768","3006","178","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024354,"YldQtl-Val_2014_Lincoln_NW13669_2383",238003,"NW13669",,,"2383","2","19",19,43,"148","2","15.63","751","5077","180","98","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024032,"YldQtl-Val_2014_Lincoln_TX1112_10_2111",221584,"TX1112_10",,,"2111","1","12",12,31,"144","1","14.74","810","3167","174","96","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024434,"YldQtl-Val_2014_Lincoln_TX1112_10_3215",221584,"TX1112_10",,,"3215","2","22",22,45,"145","2","14.59","806","5084","176","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024372,"YldQtl-Val_2014_Lincoln_TX1112_105_2103",226243,"TX1112_105",,,"2103","1","11",11,33,"146","2","14.46","778","4674","175","92","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024149,"YldQtl-Val_2014_Lincoln_TX1112_105_3212",226243,"TX1112_105",,,"3212","2","22",22,42,"146","1","16.07","813","4378","173","92","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024233,"YldQtl-Val_2014_Lincoln_TX1112_108_2104",230387,"TX1112_108",,,"2104","1","11",11,34,"144","1","15.64","796","4634","173","84","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024338,"YldQtl-Val_2014_Lincoln_TX1112_108_3210",230387,"TX1112_108",,,"3210","2","21",21,50,"145","2","15.95","797","4808","175","84","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024169,"YldQtl-Val_2014_Lincoln_TX1112_111_2120",230685,"TX1112_111",,,"2120","1","12",12,40,"147","6","16.26","724","3517","176","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024198,"YldQtl-Val_2014_Lincoln_TX1112_111_3219",230685,"TX1112_111",,,"3219","2","22",22,49,"146","2","15.25","756","5151","177","92","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024359,"YldQtl-Val_2014_Lincoln_TX1112_11_2110",231772,"TX1112_11",,,"2110","1","11",11,40,"145","5","14.9","791","4385","175","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024375,"YldQtl-Val_2014_Lincoln_TX1112_112_2105",220508,"TX1112_112",,,"2105","1","11",11,35,"144","1","16.22","818","4163","172","80","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024248,"YldQtl-Val_2014_Lincoln_TX1112_112_3201",220508,"TX1112_112",,,"3201","2","21",21,41,"145","2","16.46","829","4539","174","92","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024110,"YldQtl-Val_2014_Lincoln_TX1112_113_2118",219455,"TX1112_113",,,"2118","1","12",12,38,"144","4","15.54","795","4512","174","84","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024259,"YldQtl-Val_2014_Lincoln_TX1112_11_3218",231772,"TX1112_11",,,"3218","2","22",22,48,"145","2","14.86","797","4492","174","80","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024119,"YldQtl-Val_2014_Lincoln_TX1112_113_3213",219455,"TX1112_113",,,"3213","2","22",22,43,"145","2","15.41","796","4748","173","76","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024245,"YldQtl-Val_2014_Lincoln_TX1112_115_2113",226904,"TX1112_115",,,"2113","1","12",12,33,"147","1","14.97","766","4042","176","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024018,"YldQtl-Val_2014_Lincoln_TX1112_115_3216",226904,"TX1112_115",,,"3216","2","22",22,46,"147","1","15.12","798","4156","177","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024315,"YldQtl-Val_2014_Lincoln_TX1112_119_2102",237668,"TX1112_119",,,"2102","1","11",11,32,"144","1","15.64","811","4385","177","84","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024336,"YldQtl-Val_2014_Lincoln_TX1112_119_3214",237668,"TX1112_119",,,"3214","2","22",22,44,"145","2","15.61","801","4560","177","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024051,"YldQtl-Val_2014_Lincoln_TX1112_122_2115",230431,"TX1112_122",,,"2115","1","12",12,35,"146","1","15.73","794","5017","177","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024308,"YldQtl-Val_2014_Lincoln_TX1112_122_3202",230431,"TX1112_122",,,"3202","2","21",21,42,"146","2","15.79","795","4687","176","80","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024349,"YldQtl-Val_2014_Lincoln_TX1112_123_2119",236682,"TX1112_123",,,"2119","1","12",12,39,"145","2","17.27","797","3981","174","78","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1023999,"YldQtl-Val_2014_Lincoln_TX1112_123_3203",236682,"TX1112_123",,,"3203","2","21",21,43,"145","2","17.4","808","3901","174","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024054,"YldQtl-Val_2014_Lincoln_TX1112_124_2112",233875,"TX1112_124",,,"2112","1","12",12,32,"144","3","15.62","792","4761","171","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024339,"YldQtl-Val_2014_Lincoln_TX1112_124_3211",233875,"TX1112_124",,,"3211","2","22",22,41,"144","2","15.51","797","5003","173","80","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024431,"YldQtl-Val_2014_Lincoln_TX1112_46_2106",234609,"TX1112_46",,,"2106","1","11",11,36,"146","1","14.68","785","4048","174","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024133,"YldQtl-Val_2014_Lincoln_TX1112_46_3206",234609,"TX1112_46",,,"3206","2","21",21,46,"146","2","14.68","798","4311","177","74","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024369,"YldQtl-Val_2014_Lincoln_TX1112_48_2117",226242,"TX1112_48",,,"2117","1","12",12,37,"145","2","16.63","786","4512","175","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024140,"YldQtl-Val_2014_Lincoln_TX1112_48_3209",226242,"TX1112_48",,,"3209","2","21",21,49,"145","2","16.46","791","4580","174","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024387,"YldQtl-Val_2014_Lincoln_TX1112_52_2114",224639,"TX1112_52",,,"2114","1","12",12,34,"146","2","14.97","771","4163","175","96","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024378,"YldQtl-Val_2014_Lincoln_TX1112_52_3220",224639,"TX1112_52",,,"3220","2","22",22,50,"149","2","14.67","769","4997","178","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024374,"YldQtl-Val_2014_Lincoln_TX1112_63_2108",235124,"TX1112_63",,,"2108","1","11",11,38,"149","1","15.49","796","4022","178","80","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024134,"YldQtl-Val_2014_Lincoln_TX1112_63_3207",235124,"TX1112_63",,,"3207","2","21",21,47,"146","1","15.45","785","4425","176","86","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024055,"YldQtl-Val_2014_Lincoln_TX1112_65_2116",230673,"TX1112_65",,,"2116","1","12",12,36,"146","1","15.64","789","4929","179","74","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024069,"YldQtl-Val_2014_Lincoln_TX1112_65_3208",230673,"TX1112_65",,,"3208","2","21",21,48,"146","2","16.22","792","4418","177","88","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024040,"YldQtl-Val_2014_Lincoln_TX1112_67_2101",235501,"TX1112_67",,,"2101","1","11",11,31,"146","2","14.8","811","2132","178","82","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024430,"YldQtl-Val_2014_Lincoln_TX1112_67_3204",235501,"TX1112_67",,,"3204","2","21",21,44,"146","1","15","817","4499","175","94","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024435,"YldQtl-Val_2014_Lincoln_TX1112_69_2107",229992,"TX1112_69",,,"2107","1","11",11,37,"146","1","15.43","786","4385","175","84","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024384,"YldQtl-Val_2014_Lincoln_TX1112_69_3205",229992,"TX1112_69",,,"3205","2","21",21,45,"145","1","15.19","787","4600","176","92","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024334,"YldQtl-Val_2014_Lincoln_TX1112_87_2109",230945,"TX1112_87",,,"2109","1","11",11,39,"146","2","15.3","799","4385","176","90","100"
+5988,"YldQtl-Val_2014_Lincoln","2014","Lincoln, NE",1024262,"YldQtl-Val_2014_Lincoln_TX1112_87_3217",230945,"TX1112_87",,,"3217","2","22",22,47,"146","2","14.95","792","4365","175","80","100"
