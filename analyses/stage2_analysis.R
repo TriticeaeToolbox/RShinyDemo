@@ -1,17 +1,21 @@
-stage2 <- function(Traits, data, GRM){
+library(stringr)
 
+#Traits is the list of trait names to be analyzed
+# data is the BLUE mean obtained from the first stage analysis
+stage2 <- function(data,GRM){
+  TraitN <- names(data)
+  
   #Combine the mean of the Traits across environment
   BLUE_Trait <- list()
-  for(Trait in Traits){
-    BLUE1 <- do.call(rbind,data$BLUE[[Trait]])
+  for(Trait in TraitN){
+    BLUE1 <- do.call(rbind,data[[Trait]])
     BLUE_Trait[[Trait]] <- BLUE1
   }
-
 
   #The genomic prediction section
   GEBV_value <- list()
 
-  for(Trait in Traits){
+  for(Trait in TraitN) {
     BLUEsel <- BLUE_Trait[[Trait]]
     idg <- BLUEsel$germplasmName %in% rownames(GRM)
     BLUEsel1 <- BLUEsel[idg,]
@@ -30,7 +34,7 @@ stage2 <- function(Traits, data, GRM){
 
     BLUP1 <- cbind(Trait =  Trait, BLUP1)
     env <- unique(BLUEsel1$Env)
-    library(stringr)
+
     BLUPgxe <- list()
     BLUPgxecomb <- list()
     ssgxe <- c()
@@ -53,7 +57,8 @@ stage2 <- function(Traits, data, GRM){
     BLUPgxecomb <- do.call(rbind, BLUPgxe)
     rownames(BLUPgxecomb) <- NULL
     GEBV_value[[Trait]] <- list(GEBV_G = BLUP1, GEBV_GxE = BLUPgxecomb)
-
   }
+
   return(GEBV_value)
 }
+

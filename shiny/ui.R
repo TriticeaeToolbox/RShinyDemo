@@ -18,6 +18,7 @@ library(BrAPI)
 #
 DATABASES = getBrAPIConnections()
 DATABASES$`T3/WheatCAP` = createBrAPIConnection("wheatcap.triticeaetoolbox.org")
+DATABASES = DATABASES[order(names(DATABASES))]
 
 
 #
@@ -116,9 +117,12 @@ analysisPanel = fluidPage(
     # Right column: table of selected phenotypes
     column(9,
       h3("Analysis Results"),
-      dataTableOutput("results"),
 
       hr(),
+      h4("BLUE Output"),
+      uiOutput("blue_results"),
+
+
     )
 
   )

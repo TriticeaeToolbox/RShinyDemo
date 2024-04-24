@@ -15,7 +15,6 @@ library(readr)
 # Import phenotype data
 #######################################
 
-# source("analysis/function_with_spatial_inf_only/function_for_sp_varcomp_BLUPs.R")
 source("./analyses/GRM_matrix.R")
 source("./analyses/stage1_analysis.R")
 source("./analyses/stage2_analysis.R")
@@ -30,8 +29,7 @@ spatial_analysis <- function(Traits, data, marker_data) {
     data = rename_with(data, cleanTraitName)
 
     BLUE <- stage1(Traits, data)
-    print(BLUE)
-    # # GRM <- GRM_matix(marker_data = marker_data)
-    # # GEBV <- stage2(Traits = Traits, data = BLUE, GRM = GRM)
+    # GRM <- GRM_matix(marker_data = marker_data)
+    # GEBV <- stage2(data = BLUE, GRM = GRM)
     return(BLUE)
-}
+ }

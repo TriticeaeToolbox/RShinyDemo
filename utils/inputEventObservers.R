@@ -1,4 +1,5 @@
 library(shiny)
+library(xtable)
 library(BrAPI)
 source("./utils/getTraitNames.R")
 
@@ -133,12 +134,27 @@ onUploadTrials = function(input, output, session, data) {
 
 
 onStartAnalysis = function(input, output, session, data) {
-  print("====> START SPATIAL ANALYSIS:")
   results = spatial_analysis(
     input$traits,
     data$phenotype_data,
   )
-  print("====> SPATIAL ANALYSIS RESULTS")
-  print(results)
-  output$results = renderDT(results)
+
+
+  # DISPLAY THE BLUE RESULT TABLES
+  tables = list()
+  for ( trait in names(results) ) {
+    for ( location in names(results[[trait]]) ) {
+      d = results[[trait]][[location]]
+      tables[[paste(trait, location, sep="|")]] = xtable(
+        results[[trait]][[location]],
+        caption = sprintf("Trait: %s, Location: %s", trait, location),
+        digits = c(4)
+      )
+    }
+  }
+  html = unlist(lapply(tables, print, type="html"))
+
+  output$blue_results = renderUI({
+    div(HTML(html))
+  })
 }
