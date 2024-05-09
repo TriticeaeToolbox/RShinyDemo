@@ -49,6 +49,9 @@ server = function(input, output, session) {
       plot = character(),
       rep = character(),
       block = character()
+    ),
+    genotype_data = tibble(
+      marker = character()
     )
   )
 
@@ -92,7 +95,7 @@ server = function(input, output, session) {
   # HANDLER: Upload Phenotypes
   # Allow the user to upload a table of phenotypes, parse as data$phenotype_data
   #
-  observeEvent(input$upload_trials, onUploadTrials(input, output, session, data))
+  observeEvent(input$upload_phenotype_data, onUploadPhenotypeData(input, output, session, data))
 
 
   #
@@ -100,6 +103,13 @@ server = function(input, output, session) {
   # Download the current phenotype_data table to a CSV file
   #
   output$download_phenotype_data = downloadPhenotypeData(input, output, session, data)
+
+
+  #
+  # HANDLER: Upload Marker Data
+  # Allow the user to upload a table of marker data, parse as data$marker_data
+  #
+  observeEvent(input$upload_genotype_data, onUploadGenotypeData(input, output, session, data))
 
 
   #

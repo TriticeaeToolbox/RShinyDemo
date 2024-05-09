@@ -22,12 +22,9 @@ DATABASES = DATABASES[order(names(DATABASES))]
 
 
 #
-# INPUT PANEL
+# PHENOTYPE DATA PANEL
 #
-inputPanel = fluidPage(
-
-  # Page Header
-  h2("Data Selection"),
+phenotypePanel = fluidPage(
 
   # Create a Row with two Columns
   fluidRow(
@@ -57,7 +54,12 @@ inputPanel = fluidPage(
         tags$hr(),
 
         # Button to download trials
-        actionButton("fetch_trials", "Fetch Phenotype Data for Selected Trials")
+        actionButton(
+          "fetch_trials",
+          "Fetch Phenotype Data for Selected Trials",
+          icon("database"),
+          style = "color: #fff; background-color: #337ab7; border-color: #2e6da4"
+        )
         
       ),
 
@@ -66,7 +68,7 @@ inputPanel = fluidPage(
         h3("Upload Data from Files"),
         p("Upload previously saved data files for use in the analysis."),
 
-        fileInput("upload_trials", "Upload Phenotype Data")
+        fileInput("upload_phenotype_data", "Upload Phenotype Data")
       )
 
     ),
@@ -81,18 +83,50 @@ inputPanel = fluidPage(
       h3("Phenotype Data"),
       downloadButton("download_phenotype_data", "Download Phenotype Data"),
       dataTableOutput("phenotype_data")
-    )
+    ),
 
+    style = "margin-top: 80px"
   )
+)
+
+#
+# GENOTYPE DATA PANEL
+#
+genotypePanel = fluidPage(
+
+  # A row with two columns
+  fluidRow(
+
+    # Left column: genotype file selection
+    column(4,
+
+      # Upload Data from File
+      wellPanel(
+        h3("Upload Data from Files"),
+        p("Upload a Dosage Matrix file for use in the analysis."),
+
+        fileInput("upload_genotype_data", "Upload Marker Data")
+      )
+
+    ),
+
+    # Right column:
+    column(8,
+
+      h3("Genotype Data"),
+      dataTableOutput("genotype_data")
+
+    ),
+
+    style = "margin-top: 80px"
+  )
+
 )
 
 #
 # ANALYSIS PANEL
 #
 analysisPanel = fluidPage(
-
-  # Page Header
-  h2("Run Analysis"),
 
   # A row with two columns
   fluidRow(
@@ -120,11 +154,15 @@ analysisPanel = fluidPage(
 
       hr(),
       h4("BLUE Output"),
-      uiOutput("blue_results"),
+      dataTableOutput("blue_results"),
 
+      hr(),
+      h4("Genomic Relationship Matrix"),
+      dataTableOutput("grm_results")
 
-    )
+    ),
 
+    style = "margin-top: 80px"
   )
 
 )
@@ -143,7 +181,8 @@ ui = navbarPage(
   title = "T3/Breedbase BrAPI Test",
 
   # Navigation panels
-  tabPanel("Data Selection", inputPanel, icon = icon("database")),
+  tabPanel("Phenotype Data", phenotypePanel, icon = icon("wheat-awn")),
+  tabPanel("Genotype Data", genotypePanel, icon = icon("dna")),
   tabPanel("Run Analysis", analysisPanel, icon = icon("play")),
 
   # Set the navbar to be "sticky" at the top

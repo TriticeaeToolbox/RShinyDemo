@@ -28,8 +28,13 @@ spatial_analysis <- function(Traits, data, marker_data) {
     Traits = unlist(lapply(Traits, cleanTraitName))
     data = rename_with(data, cleanTraitName)
 
-    BLUE <- stage1(Traits, data)
-    # GRM <- GRM_matix(marker_data = marker_data)
-    # GEBV <- stage2(data = BLUE, GRM = GRM)
-    return(BLUE)
+    BLUE = stage1(Traits, data)
+    GRM = GRM_matix(marker_data = marker_data)
+    GEBV = stage2(data = BLUE, GRM = GRM)
+
+    return(list(
+        BLUE = BLUE,
+        GRM = GRM,
+        GEBV = GEBV
+    ))
  }

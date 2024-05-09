@@ -2,6 +2,7 @@
 # Estimate the genomic relationship matrix
 # better to use the dosage matrix
 library(readr)
+library(genomicMateSelectR)
 
 GRM_matix <- function(marker_data) {
   SNPs  <- as.data.frame(marker_data) # change to data frame to use some commands
@@ -31,7 +32,6 @@ GRM_matix <- function(marker_data) {
 
 
   # filter based on MAF
-  library(genomicMateSelectR)
   SNPs_t1_MAF <- maf_filter(M =SNPs_t1, thresh = 0.05)
 
   #####

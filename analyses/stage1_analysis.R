@@ -5,17 +5,14 @@ stage1 <- function(Traits, data) {
   BLUEL_sp <- list()
   env <- unique(data$studyName)
 
-  withProgress(message = "Calculating BLUE Estimates...", value = 0, min = 0, max = length(env), {
+  withProgress(message = "Calculating BLUEs...", value = 0, min = 0, max = length(env), {
     for(i in env) {
-      print(sprintf("--> ENV: %s", i))
-      incProgress(amount = 1, message = i)
+      incProgress(amount = 1, detail = i)
 
       data1 <- droplevels(data[data$studyName == i ,])
       TraitN = colnames(data1[Traits])[colSums(is.na(data1[Traits])) < 25]
       data1$germplasmName <- as.factor(data1$germplasmName)
       for(Trait in TraitN) {
-        print(sprintf("----> TRAIT: %s", Trait))
-        incProgress(amount = 0, message = i, detail = Trait)
 
         try(eval(parse(text = paste("ans <- mmer(",Trait,"~germplasmName -1,
                    random=~  spl2Da(rowNumber,colNumber) ,

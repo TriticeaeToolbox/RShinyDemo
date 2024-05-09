@@ -101,14 +101,14 @@ onRemoveTrials = function(input, output, session, data) {
 # Parse the contents of an uploaded phenotype file
 # - set the selected trials
 # - set the phenotype data
-onUploadTrials = function(input, output, session, data) {
+onUploadPhenotypeData = function(input, output, session, data) {
   
   # clear existing data
   data$selected_trials = data$selected_trials[0,]
   data$retrieved_phenotypes = data$retrieved_phenotypes[0,]
 
   # read file contents
-  content = as_tibble(read.csv(input$upload_trials$datapath, check.names = FALSE))
+  content = as_tibble(read.csv(input$upload_phenotype_data$datapath, check.names = FALSE))
 
   # build selected trials table
   studyDbIds = unique(content$studyDbId)
@@ -133,28 +133,54 @@ onUploadTrials = function(input, output, session, data) {
 }
 
 
+#
+# Parse the contents of the uploaded marker data
+#
+onUploadGenotypeData = function(input, output, session, data) {
+
+  # clear existing data
+  data$genotype_data = data$genotype_data[0,]
+
+  # read file contents
+  content = as_tibble(read.csv(input$upload_genotype_data$datapath, check.names = FALSE))
+
+  # set the genotype data
+  data$genotype_data = content
+
+  # Render the tables in the UI
+  output$genotype_data = renderDT(data$genotype_data)
+
+}
+
+#
+# Start the analysis
+#
 onStartAnalysis = function(input, output, session, data) {
-  results = spatial_analysis(
-    input$traits,
-    data$phenotype_data,
-  )
+  tryCatch({
 
+    # RUN THE ANALYSIS
+    results = spatial_analysis(
+      input$traits,
+      data$phenotype_data,
+      data$genotype_data
+    )
+    BLUE = results$BLUE
+    GRM = results$GRM
 
-  # DISPLAY THE BLUE RESULT TABLES
-  tables = list()
-  for ( trait in names(results) ) {
-    for ( location in names(results[[trait]]) ) {
-      d = results[[trait]][[location]]
-      tables[[paste(trait, location, sep="|")]] = xtable(
-        results[[trait]][[location]],
-        caption = sprintf("Trait: %s, Location: %s", trait, location),
-        digits = c(4)
-      )
+    # Combine the different BLUE tables into one combined table for display
+    BLUE_COMBINED = tibble()
+    for ( trait in names(BLUE) ) {
+      for ( location in names(BLUE[[trait]]) ) {
+        BLUE_COMBINED = rbind(BLUE_COMBINED, BLUE[[trait]][[location]])
+      }
     }
-  }
-  html = unlist(lapply(tables, print, type="html"))
 
-  output$blue_results = renderUI({
-    div(HTML(html))
+    # Display the results
+    output$blue_results = renderDT(BLUE_COMBINED)
+    output$grm_results = renderDT(GRM)
+
+  }, error = function(e) {
+    print("ANALYSIS ERROR")
+    print(e)
   })
 }
