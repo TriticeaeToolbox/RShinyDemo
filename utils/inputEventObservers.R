@@ -166,6 +166,9 @@ onStartAnalysis = function(input, output, session, data) {
     )
     BLUE = results$BLUE
     GRM = results$GRM
+    GEBV = results$GEBV
+
+    print(GEBV)
 
     # Combine the different BLUE tables into one combined table for display
     BLUE_COMBINED = tibble()
@@ -182,5 +185,6 @@ onStartAnalysis = function(input, output, session, data) {
   }, error = function(e) {
     print("ANALYSIS ERROR")
     print(e)
+    showNotification(toString(e), duration=NULL, type="error")
   })
 }

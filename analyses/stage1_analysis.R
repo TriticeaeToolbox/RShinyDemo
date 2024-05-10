@@ -1,5 +1,3 @@
-library(sommer)
-
 #Stage wise genomic prediction with spatial inforamtion
 stage1 <- function(Traits, data) {
   BLUEL_sp <- list()

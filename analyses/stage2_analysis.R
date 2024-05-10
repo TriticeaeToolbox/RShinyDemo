@@ -1,4 +1,3 @@
-library(stringr)
 
 #Traits is the list of trait names to be analyzed
 # data is the BLUE mean obtained from the first stage analysis

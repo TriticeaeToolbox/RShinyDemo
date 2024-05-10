@@ -11,6 +11,8 @@ library(lme4)
 library(rrBLUP)
 library(tibble)
 library(readr)
+library(stringr)
+library(genomicMateSelectR)
 #########################################
 # Import phenotype data
 #######################################
