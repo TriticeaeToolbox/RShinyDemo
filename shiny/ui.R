@@ -158,7 +158,12 @@ analysisPanel = fluidPage(
 
       hr(),
       h4("Genomic Relationship Matrix"),
-      dataTableOutput("grm_results")
+      dataTableOutput("grm_results"),
+
+      hr(),
+      h4("GEBVs"),
+      dataTableOutput("gebv_g_results"),
+      dataTableOutput("gebv_gxe_results")
 
     ),
 

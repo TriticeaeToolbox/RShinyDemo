@@ -168,8 +168,6 @@ onStartAnalysis = function(input, output, session, data) {
     GRM = results$GRM
     GEBV = results$GEBV
 
-    print(GEBV)
-
     # Combine the different BLUE tables into one combined table for display
     BLUE_COMBINED = tibble()
     for ( trait in names(BLUE) ) {
@@ -178,9 +176,19 @@ onStartAnalysis = function(input, output, session, data) {
       }
     }
 
+    # Combine the different GEBV tables into one
+    GEBV_COMBINED_G = tibble()
+    GEBV_COMBINED_GxE = tibble()
+    for ( trait in names(GEBV) ) {
+      GEBV_COMBINED_G = rbind(GEBV_COMBINED_G, GEBV[[trait]]$GEBV_G)
+      GEBV_COMBINED_GxE = rbind(GEBV_COMBINED_GxE, GEBV[[trait]]$GEBV_GxE)
+    }
+
     # Display the results
     output$blue_results = renderDT(BLUE_COMBINED)
     output$grm_results = renderDT(GRM)
+    output$gebv_g_results = renderDT(GEBV_COMBINED_G)
+    output$gebv_gxe_results = renderDT(GEBV_COMBINED_GxE)
 
   }, error = function(e) {
     print("ANALYSIS ERROR")
