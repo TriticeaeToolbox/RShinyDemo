@@ -3,19 +3,35 @@ stage1 <- function(Traits, data) {
   BLUEL_sp <- list()
   env <- unique(data$studyName)
 
-  withProgress(message = "Calculating BLUEs...", value = 0, min = 0, max = length(env), {
+   withProgress(message = "Calculating BLUEs...", value = 0, min = 0, max = length(env), {
     for(i in env) {
-      incProgress(amount = 1, detail = i)
+       incProgress(amount = 1, detail = i)
 
       data1 <- droplevels(data[data$studyName == i ,])
       TraitN = colnames(data1[Traits])[colSums(is.na(data1[Traits])) < 25]
       data1$germplasmName <- as.factor(data1$germplasmName)
+      
+      library(lme4)
+      
       for(Trait in TraitN) {
-
+        
+        #Removing outliers for the individual location analysis
+      try(eval(parse(text = paste("outl1 <- lmer(",Trait,"~(1|germplasmName),
+               data= data1)"))), silent = TRUE)
+        
+        outlier <- which(abs(stats::rstudent(outl1)) > 3)
+        if(length(outlier) == 0){
+          SL = data1}else{
+            
+            SL = data1[-outlier,]
+          }
+      
+      
+        
         try(eval(parse(text = paste("ans <- mmer(",Trait,"~germplasmName -1,
                    random=~  spl2Da(rowNumber,colNumber) ,
                    rcov=~vsr(units),
-                   data= data1)"))), silent = TRUE)
+                   data= SL)"))), silent = TRUE)
 
         ans$Beta$Env <- i
         ans$Beta$Effect <-  gsub(pattern = "germplasmName",replacement = "", x = ans$Beta$Effect)
@@ -28,7 +44,8 @@ stage1 <- function(Traits, data) {
         # output <- list(BLUE = BLUEL_sp, vcov = vcov_sp)
       }
     }
-  })
+   })
 
   return(BLUEL_sp)
 }
+

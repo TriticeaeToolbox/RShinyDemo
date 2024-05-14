@@ -16,19 +16,35 @@ stage2 <- function(data,GRM){
 
   withProgress(message = "Calculating GEBVs...", value = 0, min = 0, max = length(TraitN), {
     for(Trait in TraitN) {
-      incProgress(amount = 1, detail = Trait)
-
+     incProgress(amount = 1, detail = Trait)
+      
+      
       BLUEsel <- BLUE_Trait[[Trait]]
       idg <- BLUEsel$germplasmName %in% rownames(GRM)
       BLUEsel1 <- BLUEsel[idg,]
       BLUEsel1$germplasmName <- as.factor(BLUEsel1$germplasmName)
       BLUEsel1$Env <- as.factor(BLUEsel1$Env)
+      
+      #Removing outlier from the analysis
+      
+      outl <- lmer(Estimate~(1|germplasmName) + (1|Env),
+               data= BLUEsel1)
+
+
+      outlier <- which(abs(stats::rstudent(outl)) > 3)
+      if(length(outlier) == 0){
+        SL = BLUEsel1}else{
+          
+        SL = BLUEsel1[-outlier,]
+        }
+      
+      
+      
       ans2 <- mmer(fixed = Estimate  ~ Env,
                    random = ~ vsr(germplasmName, Gu = GRM) + vsr(usr(Env), germplasmName, Gu = GRM),weights = W,
-                   data = BLUEsel1)
+                   data = SL)
 
       BLUP1 <- as.data.frame(ans2$U$`u:germplasmName`$Estimate + ans2$Beta[1,"Estimate"])
-      head(BLUP1)
       colnames(BLUP1) <- "GEBVs"
       BLUP1$germplasmName <- rownames(BLUP1)
       BLUP1 <- BLUP1[,c(2,1)]
@@ -65,4 +81,3 @@ stage2 <- function(data,GRM){
 
   return(GEBV_value)
 }
-

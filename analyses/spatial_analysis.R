@@ -38,5 +38,6 @@ spatial_analysis <- function(Traits, data, marker_data) {
         BLUE = BLUE,
         GRM = GRM,
         GEBV = GEBV
+      
     ))
  }

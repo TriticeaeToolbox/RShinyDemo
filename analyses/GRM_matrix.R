@@ -44,3 +44,5 @@ GRM_matix <- function(marker_data) {
   return(GRM)
 
 }
+
+
